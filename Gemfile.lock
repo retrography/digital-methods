@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    jekyll-athena (0.0.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jekyll-athena
+
+BUNDLED WITH
+   1.14.5
