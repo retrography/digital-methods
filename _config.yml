@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Digital Methods for Qualitative Research
 description: Companion website for the ABRI doctoral seminar.
-# baseurl: "/athena" # the subpath of your site, e.g. /blog
-url: "http://retrography.github.io/digital-methods" # the base hostname & protocol for your site
+baseurl: "/digital-methods" # the subpath of your site, e.g. /blog
+url: "http://retrography.github.io" # the base hostname & protocol for your site
 github_repo: digital-methods # the GitHub repo name for your project
 github_username: retrography
 
