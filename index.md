@@ -81,17 +81,14 @@ The final papers are due on the 7th of July. A presentation session is scheduled
 ## Course Material
 
 - **1st Session**
-  - Readings
+  - TBC
 - **2nd Session**
   - Readings
     - [Wickham, H. (2014). Tidy Data. Journal of Statistical Software, 59(1), 1–23.](http://dx.doi.org/10.18637/jss.v059.i10)
   - Software
+	  - TBC
 - **3rd Session**
-  - Background Reading
-  - Session Papers
-  - Software
-  - Dataset
-  - Exercise
+  - TBC
 - **4th Session**
   - Background Reading
     - [Emirbayer, M. (1997). Manifesto for a Relational Sociology.](http://dx.doi.org/10.1086/231209) [*The American Journal of Sociology*](http://dx.doi.org/10.1086/231209)[,](http://dx.doi.org/10.1086/231209) [*103*](http://dx.doi.org/10.1086/231209)[(2), 281–317.](http://dx.doi.org/10.1086/231209)
@@ -104,17 +101,13 @@ The final papers are due on the 7th of July. A presentation session is scheduled
   - Dataset
     - Lazega ([Description](http://moreno.ss.uci.edu/data.html#lazega) / [Download](https://retrography.github.io/digital-methods/assets/data/lazega.graphml))
   - Exercise
-    - TBD
+    - TBC
 - **5th Session**
-  - Background Reading
-  - Session Papers
-  - Software
-  - Dataset
-  - Exercise
+  - TBC
 
 ## Grading
 
-TBD
+TBC
 
 ## Pre-requisites
 
