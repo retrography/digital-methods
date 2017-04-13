@@ -37,7 +37,7 @@ During the course the students will:
 
 ## Target Audience
 
-PhD and research master students from VU, The Netherlands and abroad, engaged in research projects broadly related to business administration or organization studies. We would expect between 10 and 20 participants.
+PhD and research master students from VU, The Netherlands and abroad, engaged in research projects broadly related to business administration or organization studies. We a maximum of 20 participants.
 
 ## Course Outline
 
@@ -64,7 +64,7 @@ Format for the other sessions (June 1st, 2nd and 30th, July 7th):
 
 - 9:00-12:00 Lecture or workshop with a short break
 
-Use the following this [link](https://calendar.google.com/calendar/ical/53ggv2r7qegc4e9cgj1f549nec@group.calendar.google.com/private-35f204458184545b3e421eccd38e2741/basic.ics) to subscribe to the course calendar in your favourite calendar client.
+Use the [this address](https://calendar.google.com/calendar/ical/53ggv2r7qegc4e9cgj1f549nec@group.calendar.google.com/private-35f204458184545b3e421eccd38e2741/basic.ics) to subscribe to the course calendar in your favourite calendar client.
 
 ## Deliverables
 
