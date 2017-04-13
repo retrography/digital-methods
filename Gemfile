@@ -1,2 +1,2 @@
-source 'https://rubygems.org'
-gem "jekyll-athena"
+source "https://rubygems.org"
+gemspec
