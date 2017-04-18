@@ -3,19 +3,21 @@ layout: default
 title: Course Outline
 ---
 
+***NOTE:*** *This is the live version of the syllabus. It is under active development, and subject to change.*
+
 ## Teaching Faculty
 
 **Mahmood Shafeie Zargar** (KIN / VU - Coordinator)
-[Website](http://www.kinresearch.nl/person/mahmood-zargar/) | m.shafeiezargar@vu.nl
+[Website](http://www.kinresearch.nl/person/mahmood-zargar/) | [Email](mailto:m.shafeiezargar@vu.nl)
 
 **Jonas Valbjørn Andersen** (KIN / VU)
-[Website](http://www.kinresearch.nl/person/jonas-valbjorn-andersen/) | j.v.andersen@vu.nl
+[Website](http://www.kinresearch.nl/person/jonas-valbjorn-andersen/) | [Email](mailto:j.v.andersen@vu.nl)
 
 **Brian Pentland** (Michigan State - Guest)
-[Website](http://broad.msu.edu/facultystaff/pentland/) | pentland@broad.msu.edu
+[Website](http://broad.msu.edu/facultystaff/pentland/) | [Email](mailto:pentland@broad.msu.edu)
 
 **Philipp Hukal** (Warwick Business School - Guest)
-[Website](https://www.linkedin.com/in/phukal) | phd14ph@mail.wbs.ac.uk
+[Website](https://www.linkedin.com/in/phukal) | [Email](mailto:phd14ph@mail.wbs.ac.uk)
 
 ## Course Description
 
