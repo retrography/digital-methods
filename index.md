@@ -37,7 +37,7 @@ During the course the students will:
 
 ## Target Audience
 
-PhD and research master students from VU, The Netherlands and abroad, engaged in research projects broadly related to business administration or organization studies. We a maximum of 20 participants.
+PhD and research master students from VU, The Netherlands and abroad, engaged in research projects broadly related to business administration or organization studies. We a maximum of 25 participants.
 
 ## Course Outline
 
@@ -112,4 +112,12 @@ TBC
 ## Pre-requisites
 
 The assumption is that the students are initiated to statistics for research, but this is not an absolute prerequisite. It is crucial that students are familiar with computer basics (e.g. know how to navigate their way around the internet) and are proficient in use of computers for handling data files (e.g. using Excel, SPSS, SQL or other software). No experience with coding is necessary, and the course will not require any coding, although knowing how to code can give the students an operational advantage for running more sophisticated projects. The students who lack a basic understanding of the common descriptive and inferential statistics methods may want to take a preliminary statistics course. The students that would like to improve on their data-related informatics skill can get in touch with the instructors beforehand to get tailored recommendations.
+
+## Credits
+
+The seminar will count as 6 ECTS under European credit transfer and accumulation system.
+
+## Registration
+
+If you haven’t registered yet, but you would like to attend the seminar, you can use [this form](http://abri.vu.nl/en/doctoral-education/phd-programme/course_registration/index.aspx) to enrol. For additional information on the administrative formalities, contact [graduateschool.abri@vu.nl](mailto:graduateschool.abri@vu.nl). 
 
