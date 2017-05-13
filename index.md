@@ -39,7 +39,7 @@ During the course the students will:
 
 ## Target Audience
 
-PhD and research master students from VU, The Netherlands and abroad, engaged in research projects broadly related to business administration or organization studies. We a maximum of 25 participants.
+PhD and research master students from VU, The Netherlands and abroad, engaged in research projects broadly related to business administration or organization studies. We expect a maximum of 25 participants.
 
 ## Course Outline
 
