@@ -83,17 +83,18 @@ The final papers are due on the 7th of July. A presentation session is scheduled
 ## Course Material
 
 - **1st Session**
-  - TBC
+  - TBD
 - **2nd Session**
   - Readings
     - [Wickham, H. (2014). Tidy Data. Journal of Statistical Software, 59(1), 1–23.](http://dx.doi.org/10.18637/jss.v059.i10)
   - Software
-	  - TBC
+    - TBD
 - **3rd Session**
-  - TBC
+  - TBD
 - **4th Session**
   - Background Reading
     - [Emirbayer, M. (1997). Manifesto for a Relational Sociology.](http://dx.doi.org/10.1086/231209) [*The American Journal of Sociology*](http://dx.doi.org/10.1086/231209)[,](http://dx.doi.org/10.1086/231209) [*103*](http://dx.doi.org/10.1086/231209)[(2), 281–317.](http://dx.doi.org/10.1086/231209)
+    - [Kilduff, M., & Brass, D. J. (2010). Organizational Social Network Research: Core Ideas and Key Debates.](http://annals.aom.org/content/4/1/317) [*The Academy of Management Annals*](http://annals.aom.org/content/4/1/317)[,](http://annals.aom.org/content/4/1/317) [*4*](http://annals.aom.org/content/4/1/317)[(1), 317–357.](http://annals.aom.org/content/4/1/317)
   - Session Papers
     - [Padgett, J. F., & Ansell, C. K. (1993). Robust Action and the Rise of the Medici, 1400-1434.](http://www.jstor.org/stable/2781822) [*The American Journal of Sociology*](http://www.jstor.org/stable/2781822)[,](http://www.jstor.org/stable/2781822) [*98*](http://www.jstor.org/stable/2781822)[(6), 1259–1319.](http://www.jstor.org/stable/2781822)
     - [Gould, R. V. (1991). Multiple Networks and Mobilization in the Paris Commune, 1871.](http://www.jstor.org/stable/2096251) [*American Sociological Review*](http://www.jstor.org/stable/2096251)[,](http://www.jstor.org/stable/2096251) [*56*](http://www.jstor.org/stable/2096251)[(6), 716–729.](http://www.jstor.org/stable/2096251)
@@ -103,13 +104,26 @@ The final papers are due on the 7th of July. A presentation session is scheduled
   - Dataset
     - Lazega ([Description](http://moreno.ss.uci.edu/data.html#lazega) / [Download](https://retrography.github.io/digital-methods/assets/data/lazega.graphml))
   - Exercise
-    - TBC
+    - TBD
 - **5th Session**
-  - TBC
+  - Background Reading
+    - [Abbott, A. (1990). A primer on sequence methods.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1.4.375) [*Organization science*](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1.4.375)[,](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1.4.375) [*1*](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1.4.375)[(4), 375-392.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1.4.375)
+[](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1.4.375)  
+  - Session Papers
+    - [Poole et al (2017), Sequential Analysis of Processes, in Langley, A., & Tsoukas, H. (Eds.).](https://uk.sagepub.com/en-gb/eur/the-sage-handbook-of-process-organization-studies/book243122#contents) [*The Sage handbook of process organization studies*](https://uk.sagepub.com/en-gb/eur/the-sage-handbook-of-process-organization-studies/book243122#contents)[. Thousand Oaks, Sage, pp. 254-270.](https://uk.sagepub.com/en-gb/eur/the-sage-handbook-of-process-organization-studies/book243122#contents) 
+    - [Pentland, B. T., & Feldman, M. S. (2007). Narrative networks: Patterns of technology and organization.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0283) [*Organization science*](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0283)[,](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0283) [*18*](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0283)[(5), 781-795.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0283)
+    - [Goh, J. M., Gao, G., & Agarwal, R. (2011). Evolving work routines: Adaptive routinization of information technology in healthcare.](http://pubsonline.informs.org/doi/abs/10.1287/isre.1110.0365) [*Information Systems Research*](http://pubsonline.informs.org/doi/abs/10.1287/isre.1110.0365)[,](http://pubsonline.informs.org/doi/abs/10.1287/isre.1110.0365) [*22*](http://pubsonline.informs.org/doi/abs/10.1287/isre.1110.0365)[(3), 565-585.](http://pubsonline.informs.org/doi/abs/10.1287/isre.1110.0365)
+  - Software
+    - [TraMineR](http://traminer.unige.ch/)
+  - Dataset
+    - TBD
+  - Exercise
+    - TBD
+
 
 ## Grading
 
-TBC
+TBD
 
 ## Pre-requisites
 
