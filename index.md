@@ -83,47 +83,67 @@ The final papers are due on the 7th of July. A presentation session is scheduled
 ## Course Material
 
 - **1st Session**
-  - TBD
-- **2nd Session**
-  - Readings
-    - [Wickham, H. (2014). Tidy Data. Journal of Statistical Software, 59(1), 1–23.](http://dx.doi.org/10.18637/jss.v059.i10)
-  - Software
-    - TBD
-- **3rd Session**
-  - TBD
-- **4th Session**
   - Background Reading
-    - [Emirbayer, M. (1997). Manifesto for a Relational Sociology.](http://dx.doi.org/10.1086/231209) [*The American Journal of Sociology*](http://dx.doi.org/10.1086/231209)[,](http://dx.doi.org/10.1086/231209) [*103*](http://dx.doi.org/10.1086/231209)[(2), 281–317.](http://dx.doi.org/10.1086/231209)
-    - [Kilduff, M., & Brass, D. J. (2010). Organizational Social Network Research: Core Ideas and Key Debates.](http://annals.aom.org/content/4/1/317) [*The Academy of Management Annals*](http://annals.aom.org/content/4/1/317)[,](http://annals.aom.org/content/4/1/317) [*4*](http://annals.aom.org/content/4/1/317)[(1), 317–357.](http://annals.aom.org/content/4/1/317)
-  - Session Papers
-    - [Padgett, J. F., & Ansell, C. K. (1993). Robust Action and the Rise of the Medici, 1400-1434.](http://www.jstor.org/stable/2781822) [*The American Journal of Sociology*](http://www.jstor.org/stable/2781822)[,](http://www.jstor.org/stable/2781822) [*98*](http://www.jstor.org/stable/2781822)[(6), 1259–1319.](http://www.jstor.org/stable/2781822)
-    - [Gould, R. V. (1991). Multiple Networks and Mobilization in the Paris Commune, 1871.](http://www.jstor.org/stable/2096251) [*American Sociological Review*](http://www.jstor.org/stable/2096251)[,](http://www.jstor.org/stable/2096251) [*56*](http://www.jstor.org/stable/2096251)[(6), 716–729.](http://www.jstor.org/stable/2096251)
-    - [Shwed, U., & Bearman, P. S. (2010). The Temporal Structure of Scientific Consensus Formation.](http://dx.doi.org/10.1177/0003122410388488) [*American Sociological Review*](http://dx.doi.org/10.1177/0003122410388488)[,](http://dx.doi.org/10.1177/0003122410388488) [*75*](http://dx.doi.org/10.1177/0003122410388488)[(6), 817–840.](http://dx.doi.org/10.1177/0003122410388488)
+	    - [Sutton, R. I., & Staw, B. M. (1995). What Theory is Not. *Administrative Science Quarterly*, *40*(3), 371–384.](http://www.jstor.org/stable/2393788?seq=1#page_scan_tab_contents)
+	    - [Corley, K. G., & Gioia, D. A. (2011). Building Theory about Theory Building: What Constitutes a Theoretical Contribution? *Academy of Management Review. Academy of Management*, *36*(1), 12–32.](http://amr.aom.org/content/36/1/12.1.short)
+	    - [Abbott, A. (1992). From Causes to Events. *Sociological Methods & Research*, *20*(4), 428–455.](http://journals.sagepub.com/doi/abs/10.1177/0049124192020004002)
+	    - [Venturini, T., & Latour, B. (2010). The Social Fabric: Digital Traces and Quali-quantitative Methods. In *Proceedings of Future En Seine*. ](http://medialab.sciences-po.fr/publications/Venturini_Latour-The_Social_Fabric.pdf)
+	    - [Candea, M. (2010). Tarde’s idea of quantification. In M. Candea (Ed.), *The Social After Gabriel Tarde: Debates and Assessments* (pp. 145–162). Routledge.](https://hal-sciencespo.archives-ouvertes.fr/hal-00973004/document)
+- **2nd Session**
+  - Background Reading
+	    - [Wickham, H. (2014). Tidy Data. Journal of Statistical Software, 59(1), 1–23.](http://dx.doi.org/10.18637/jss.v059.i10)
+	    - [Marres, N., & Weltevrede, E. (2013). Scraping The Social? Issues in live social research. *Journal of Cultural Economy*, *6*(3), 313–335.](https://www.researchgate.net/profile/Noortje_Marres/publication/271991960_SCRAPING_THE_SOCIAL/links/54f620ca0cf27d8ed71d6047.pdf)
+	    - [Hanneman, R., & Riddle, M. (2005). Chapter 1: Social network data. In *Introduction to social network methods*. University of California, Riverside](http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html)
   - Software
-    - [Gephi](https://gephi.org/)
+	    - TBD - Based on the needs of the students.
+- **3rd Session**
+  - Background Reading
+	    - [Urquhart, C., Lehmann, H., & Myers, M. D. (2010). Putting the “theory” back into grounded theory: guidelines for grounded theory studies in information systems. *Information Systems Journal*, *20*(4), 357–381.](https://pdfs.semanticscholar.org/49f3/d7d99191cde5177919aaf3cc841f1ac64568.pdf)
+	    - [Suddaby, R. (2006). From the Editors: What Grounded Theory is Not. *Academy of Management Journal. Academy of Management*, *49*(4), 633–642.](https://www.researchgate.net/profile/Roy_Suddaby/publication/253203051_From_the_Editors_What_Grounded_Theory_Is_Not/links/02e7e52582892a5870000000/From-the-Editors-What-Grounded-Theory-Is-Not.pdf)
+	    - [Landauer, T., Foltz, P., and Laham, D. 1998. “An introduction to latent semantic analysis,” *Discourse processes*.](http://net.pku.edu.cn/~course/cs220/reading/intro_to_LSA.pdf)
+  - Session Papers
+	    - [Tuertscher, P., Garud, R., & Kumaraswamy, A. (2014). Justification and Interlaced Knowledge at ATLAS, CERN. *Organization Science*, *25*(6), 1579–1608.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.2013.0894)
+	    - [Griffiths, T. L., Steyvers, M., & Tenenbaum, J. B. (2007). Topics in semantic representation. *Psychological Review*, *114*(2), 211–244.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.2013.0894)
+	    - [Liu, H., Maes, P., & Davenport, G. (2006). Unraveling the taste fabric of social networks. *International Journal on Semantic Web and Information Systems*, *2*(1), 42–71.](http://alumni.media.mit.edu/~hugo/publications/drafts/IJSWIS2006-tastefabrics.pdf)
+  - Software
+	    - TBD
   - Dataset
-    - Lazega ([Description](http://moreno.ss.uci.edu/data.html#lazega) / [Download](https://retrography.github.io/digital-methods/assets/data/lazega.graphml))
+	    - TBD
   - Exercise
-    - TBD
+	    - TBD
+- **4th Session**
+  - Background Reading (One of the two)
+	    - [Emirbayer, M. (1997). Manifesto for a Relational Sociology. *The American Journal of Sociology*, *103*(2), 281–317.](http://dx.doi.org/10.1086/231209)
+	    - [Kilduff, M., & Brass, D. J. (2010). Organizational Social Network Research: Core Ideas and Key Debates. *The Academy of Management Annals*, *4*(1), 317–357.](http://annals.aom.org/content/4/1/317)
+  - Session Papers
+	    - [Padgett, J. F., & Ansell, C. K. (1993). Robust Action and the Rise of the Medici, 1400-1434. *The American Journal of Sociology*, *98*(6), 1259–1319.](http://www.jstor.org/stable/2781822)
+	    - [Gould, R. V. (1991). Multiple Networks and Mobilization in the Paris Commune, 1871. *American Sociological Review*, *56*(6), 716–729.](http://www.jstor.org/stable/2096251)
+	    - [Shwed, U., & Bearman, P. S. (2010). The Temporal Structure of Scientific Consensus Formation. *American Sociological Review*, *75*(6), 817–840.](http://dx.doi.org/10.1177/0003122410388488)
+  - Software
+	    - [Gephi](https://gephi.org/) — [Quick Start](https://gephi.org/users/quick-start/)
+  - Dataset
+	    - Lazega ([Description](http://moreno.ss.uci.edu/data.html#lazega) / [Download](https://retrography.github.io/digital-methods/assets/data/lazega.graphml))
+  - Exercise
+	    - TBD
 - **5th Session**
   - Background Reading
-    - [Abbott, A. (1990). A primer on sequence methods.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1.4.375) [*Organization science*](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1.4.375)[,](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1.4.375) [*1*](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1.4.375)[(4), 375-392.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1.4.375)
-[](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1.4.375)  
+	    - [Abbott, A. (1990). A primer on sequence methods. *Organization science*, *1*(4), 375-392.
+](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1.4.375)  
   - Session Papers
-    - [Poole et al (2017), Sequential Analysis of Processes, in Langley, A., & Tsoukas, H. (Eds.).](https://uk.sagepub.com/en-gb/eur/the-sage-handbook-of-process-organization-studies/book243122#contents) [*The Sage handbook of process organization studies*](https://uk.sagepub.com/en-gb/eur/the-sage-handbook-of-process-organization-studies/book243122#contents)[. Thousand Oaks, Sage, pp. 254-270.](https://uk.sagepub.com/en-gb/eur/the-sage-handbook-of-process-organization-studies/book243122#contents) 
-    - [Pentland, B. T., & Feldman, M. S. (2007). Narrative networks: Patterns of technology and organization.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0283) [*Organization science*](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0283)[,](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0283) [*18*](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0283)[(5), 781-795.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0283)
-    - [Goh, J. M., Gao, G., & Agarwal, R. (2011). Evolving work routines: Adaptive routinization of information technology in healthcare.](http://pubsonline.informs.org/doi/abs/10.1287/isre.1110.0365) [*Information Systems Research*](http://pubsonline.informs.org/doi/abs/10.1287/isre.1110.0365)[,](http://pubsonline.informs.org/doi/abs/10.1287/isre.1110.0365) [*22*](http://pubsonline.informs.org/doi/abs/10.1287/isre.1110.0365)[(3), 565-585.](http://pubsonline.informs.org/doi/abs/10.1287/isre.1110.0365)
+	    - [Poole et al (2017), Sequential Analysis of Processes, in Langley, A., & Tsoukas, H. (Eds.). *The Sage handbook of process organization studies*. Thousand Oaks, Sage, pp. 254-270.](https://uk.sagepub.com/en-gb/eur/the-sage-handbook-of-process-organization-studies/book243122)
+	    - [Pentland, B. T., & Feldman, M. S. (2007). Narrative networks: Patterns of technology and organization. *Organization science*, *18*(5), 781-795.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0283)
+	    - [Goh, J. M., Gao, G., & Agarwal, R. (2011). Evolving work routines: Adaptive routinization of information technology in healthcare. *Information Systems Research*, *22*(3), 565-585.](http://pubsonline.informs.org/doi/abs/10.1287/isre.1110.0365)
   - Software
-    - [TraMineR](http://traminer.unige.ch/)
+	    - [TraMineR](http://traminer.unige.ch/) — [Intro Vignette](https://cran.r-project.org/web/packages/TraMineR/vignettes/TraMineR-state-sequence.pdf) 
   - Dataset
-    - TBD
+	    - TBD
   - Exercise
-    - TBD
-
+	    - TBD
 
 ## Grading
 
-TBD
+- 30% Paper presentation, facilitation of class discussion and active participation in the class 
+- 70% Final paper and final paper presentation
 
 ## Pre-requisites
 
@@ -137,3 +157,13 @@ The seminar will count as 6 ECTS under European credit transfer and accumulation
 
 If you haven’t registered yet, but you would like to attend the seminar, you can use [this form](http://abri.vu.nl/en/doctoral-education/phd-programme/course_registration/index.aspx) to enrol. For additional information on the administrative formalities, contact [graduateschool.abri@vu.nl](mailto:graduateschool.abri@vu.nl). 
 
+## Appendix: R Resources
+- Software
+	- [R Studio](https://www.rstudio.com/products/rstudio/download/)
+	- [Microsoft R Open](https://mran.microsoft.com/open/)
+
+- Learning Material
+	- [R Basics](http://uc-r.github.io/section2_basics)
+	- [Intro to R Bootcamp](http://uc-r.github.io/r_bootcamp)
+	- [Data Wrangling with R](http://uc-r.github.io/data_wrangling/syllabus)
+	- [R Reference Card](https://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf)
