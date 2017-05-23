@@ -98,7 +98,7 @@ The final papers are due on the 7th of July. A presentation session is scheduled
         - [Griffiths, T. L., Steyvers, M., & Tenenbaum, J. B. (2007). Topics in semantic representation. *Psychological Review*, *114*(2), 211–244.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.2013.0894)
         - [Liu, H., Maes, P., & Davenport, G. (2006). Unraveling the taste fabric of social networks. *International Journal on Semantic Web and Information Systems*, *2*(1), 42–71.](http://www.igi-global.com/article/unraveling-taste-fabric-social-networks/2816)
     - Software
-        - [LSA (R Package)](https://cran.r-project.org/web/packages/lsa/index.html)
+        - [lsa (R Package)](https://cran.r-project.org/web/packages/lsa/index.html)
 - **4th Session**
     - Background Reading (One of the two)
         - [Emirbayer, M. (1997). Manifesto for a Relational Sociology. *The American Journal of Sociology*, *103*(2), 281–317.](http://dx.doi.org/10.1086/231209)
