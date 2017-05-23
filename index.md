@@ -89,21 +89,16 @@ The final papers are due on the 7th of July. A presentation session is scheduled
         - [Wickham, H. (2014). Tidy Data. Journal of Statistical Software, 59(1), 1–23.](http://dx.doi.org/10.18637/jss.v059.i10)
         - [Marres, N., & Weltevrede, E. (2013). Scraping The Social? Issues in live social research. *Journal of Cultural Economy*, *6*(3), 313–335.](http://www.tandfonline.com/doi/abs/10.1080/17530350.2013.772070)
         - [Hanneman, R., & Riddle, M. (2005). Chapter 1: Social network data. In *Introduction to social network methods*. University of California, Riverside](http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html)
-    - Software
-        - TBD
 - **3rd Session**
     - Background Reading
         - [Urquhart, C., Lehmann, H., & Myers, M. D. (2010). Putting the “theory” back into grounded theory: guidelines for grounded theory studies in information systems. *Information Systems Journal*, *20*(4), 357–381.](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2575.2009.00328.x/full)
         - [Suddaby, R. (2006). From the Editors: What Grounded Theory is Not. *Academy of Management Journal. Academy of Management*, *49*(4), 633–642.](http://amj.aom.org/content/49/4/633.short)
-        - [An introduction to latent semantic analysis. (1998). Discourse Processes, 25(2-3), 259–284.](http://net.pku.edu.cn/~course/cs220/reading/intro_to_LSA.pdf)
     - Session Papers
         - [Tuertscher, P., Garud, R., & Kumaraswamy, A. (2014). Justification and Interlaced Knowledge at ATLAS, CERN. *Organization Science*, *25*(6), 1579–1608.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.2013.0894)
         - [Griffiths, T. L., Steyvers, M., & Tenenbaum, J. B. (2007). Topics in semantic representation. *Psychological Review*, *114*(2), 211–244.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.2013.0894)
         - [Liu, H., Maes, P., & Davenport, G. (2006). Unraveling the taste fabric of social networks. *International Journal on Semantic Web and Information Systems*, *2*(1), 42–71.](http://www.igi-global.com/article/unraveling-taste-fabric-social-networks/2816)
     - Software
         - [LSA (R Package)](https://cran.r-project.org/web/packages/lsa/index.html)
-    - Dataset
-        - TBD
 - **4th Session**
     - Background Reading (One of the two)
         - [Emirbayer, M. (1997). Manifesto for a Relational Sociology. *The American Journal of Sociology*, *103*(2), 281–317.](http://dx.doi.org/10.1086/231209)
@@ -126,8 +121,6 @@ The final papers are due on the 7th of July. A presentation session is scheduled
         - [Goh, J. M., Gao, G., & Agarwal, R. (2011). Evolving work routines: Adaptive routinization of information technology in healthcare. *Information Systems Research*, *22*(3), 565-585.](http://pubsonline.informs.org/doi/abs/10.1287/isre.1110.0365)
     - Software
         - [TraMineR (R Package)](http://traminer.unige.ch/) — [Intro Vignette](https://cran.r-project.org/web/packages/TraMineR/vignettes/TraMineR-state-sequence.pdf) 
-    - Dataset
-        - TBD
 
 ## Grading
 
@@ -147,6 +140,7 @@ The seminar will count as 6 ECTS under European credit transfer and accumulation
 If you haven’t registered yet, but you would like to attend the seminar, you can use [this form](http://abri.vu.nl/en/doctoral-education/phd-programme/course_registration/index.aspx) to enrol. For additional information on the administrative formalities, contact [graduateschool.abri@vu.nl](mailto:graduateschool.abri@vu.nl). 
 
 ## Appendix: R Resources
+
 - Software
 	- [R Studio](https://www.rstudio.com/products/rstudio/download/)
 	- [Microsoft R Open](https://mran.microsoft.com/open/)
