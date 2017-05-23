@@ -90,7 +90,7 @@ The final papers are due on the 7th of July. A presentation session is scheduled
         - [Marres, N., & Weltevrede, E. (2013). Scraping The Social? Issues in live social research. *Journal of Cultural Economy*, *6*(3), 313–335.](http://www.tandfonline.com/doi/abs/10.1080/17530350.2013.772070)
         - [Hanneman, R., & Riddle, M. (2005). Chapter 1: Social network data. In *Introduction to social network methods*. University of California, Riverside](http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html)
     - Software
-        - TBD - Based on the needs of the students.
+        - TBD
 - **3rd Session**
     - Background Reading
         - [Urquhart, C., Lehmann, H., & Myers, M. D. (2010). Putting the “theory” back into grounded theory: guidelines for grounded theory studies in information systems. *Information Systems Journal*, *20*(4), 357–381.](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2575.2009.00328.x/full)
@@ -101,10 +101,8 @@ The final papers are due on the 7th of July. A presentation session is scheduled
         - [Griffiths, T. L., Steyvers, M., & Tenenbaum, J. B. (2007). Topics in semantic representation. *Psychological Review*, *114*(2), 211–244.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.2013.0894)
         - [Liu, H., Maes, P., & Davenport, G. (2006). Unraveling the taste fabric of social networks. *International Journal on Semantic Web and Information Systems*, *2*(1), 42–71.](http://www.igi-global.com/article/unraveling-taste-fabric-social-networks/2816)
     - Software
-        - TBD
+        - [LSA (R Package)](https://cran.r-project.org/web/packages/lsa/index.html)
     - Dataset
-        - TBD
-    - Exercise
         - TBD
 - **4th Session**
     - Background Reading (One of the two)
@@ -118,8 +116,6 @@ The final papers are due on the 7th of July. A presentation session is scheduled
         - [Gephi](https://gephi.org/) — [Quick Start](https://gephi.org/users/quick-start/)
     - Dataset
         - Lazega ([Description](http://moreno.ss.uci.edu/data.html#lazega) / [Download](https://retrography.github.io/digital-methods/assets/data/lazega.graphml))
-    - Exercise
-        - TBD
 - **5th Session**
     - Background Reading
         - [Abbott, A. (1990). A primer on sequence methods. *Organization science*, *1*(4), 375-392.
@@ -129,10 +125,8 @@ The final papers are due on the 7th of July. A presentation session is scheduled
         - [Pentland, B. T., & Feldman, M. S. (2007). Narrative networks: Patterns of technology and organization. *Organization science*, *18*(5), 781-795.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0283)
         - [Goh, J. M., Gao, G., & Agarwal, R. (2011). Evolving work routines: Adaptive routinization of information technology in healthcare. *Information Systems Research*, *22*(3), 565-585.](http://pubsonline.informs.org/doi/abs/10.1287/isre.1110.0365)
     - Software
-        - [TraMineR](http://traminer.unige.ch/) — [Intro Vignette](https://cran.r-project.org/web/packages/TraMineR/vignettes/TraMineR-state-sequence.pdf) 
+        - [TraMineR (R Package)](http://traminer.unige.ch/) — [Intro Vignette](https://cran.r-project.org/web/packages/TraMineR/vignettes/TraMineR-state-sequence.pdf) 
     - Dataset
-        - TBD
-    - Exercise
         - TBD
 
 ## Grading
