@@ -79,7 +79,7 @@ The final papers are due on the 7th of July. A presentation session is scheduled
 
 - **1st Session**
     - Background Reading
-        - [Sutton, R. I., & Staw, B. M. (1995). What Theory is Not. *Administrative Science Quarterly*, *40*(3), 371–384.](http://www.jstor.org/stable/2393788?seq=1#page_scan_tab_contents)
+        - [Sutton, R. I., & Staw, B. M. (1995). What Theory is Not. *Administrative Science Quarterly*, *40*(3), 371–384.](http://www.jstor.org/stable/2393788)
         - [Corley, K. G., & Gioia, D. A. (2011). Building Theory about Theory Building: What Constitutes a Theoretical Contribution? *Academy of Management Review. Academy of Management*, *36*(1), 12–32.](http://amr.aom.org/content/36/1/12.1.short)
         - [Abbott, A. (1992). From Causes to Events. *Sociological Methods & Research*, *20*(4), 428–455.](http://journals.sagepub.com/doi/abs/10.1177/0049124192020004002)
         - [Venturini, T., & Latour, B. (2010). The Social Fabric: Digital Traces and Quali-quantitative Methods. In *Proceedings of Future En Seine*. ](http://medialab.sciences-po.fr/publications/Venturini_Latour-The_Social_Fabric.pdf)
@@ -87,19 +87,19 @@ The final papers are due on the 7th of July. A presentation session is scheduled
 - **2nd Session**
     - Background Reading
         - [Wickham, H. (2014). Tidy Data. Journal of Statistical Software, 59(1), 1–23.](http://dx.doi.org/10.18637/jss.v059.i10)
-        - [Marres, N., & Weltevrede, E. (2013). Scraping The Social? Issues in live social research. *Journal of Cultural Economy*, *6*(3), 313–335.](https://www.researchgate.net/profile/Noortje_Marres/publication/271991960_SCRAPING_THE_SOCIAL/links/54f620ca0cf27d8ed71d6047.pdf)
+        - [Marres, N., & Weltevrede, E. (2013). Scraping The Social? Issues in live social research. *Journal of Cultural Economy*, *6*(3), 313–335.](http://www.tandfonline.com/doi/abs/10.1080/17530350.2013.772070)
         - [Hanneman, R., & Riddle, M. (2005). Chapter 1: Social network data. In *Introduction to social network methods*. University of California, Riverside](http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html)
     - Software
         - TBD - Based on the needs of the students.
 - **3rd Session**
     - Background Reading
-        - [Urquhart, C., Lehmann, H., & Myers, M. D. (2010). Putting the “theory” back into grounded theory: guidelines for grounded theory studies in information systems. *Information Systems Journal*, *20*(4), 357–381.](https://pdfs.semanticscholar.org/49f3/d7d99191cde5177919aaf3cc841f1ac64568.pdf)
-        - [Suddaby, R. (2006). From the Editors: What Grounded Theory is Not. *Academy of Management Journal. Academy of Management*, *49*(4), 633–642.](https://www.researchgate.net/profile/Roy_Suddaby/publication/253203051_From_the_Editors_What_Grounded_Theory_Is_Not/links/02e7e52582892a5870000000/From-the-Editors-What-Grounded-Theory-Is-Not.pdf)
-        - [Landauer, T., Foltz, P., and Laham, D. 1998. “An introduction to latent semantic analysis,” *Discourse processes*.](http://net.pku.edu.cn/~course/cs220/reading/intro_to_LSA.pdf)
+        - [Urquhart, C., Lehmann, H., & Myers, M. D. (2010). Putting the “theory” back into grounded theory: guidelines for grounded theory studies in information systems. *Information Systems Journal*, *20*(4), 357–381.](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2575.2009.00328.x/full)
+        - [Suddaby, R. (2006). From the Editors: What Grounded Theory is Not. *Academy of Management Journal. Academy of Management*, *49*(4), 633–642.](http://amj.aom.org/content/49/4/633.short)
+        - [An introduction to latent semantic analysis. (1998). Discourse Processes, 25(2-3), 259–284.](http://net.pku.edu.cn/~course/cs220/reading/intro_to_LSA.pdf)
     - Session Papers
         - [Tuertscher, P., Garud, R., & Kumaraswamy, A. (2014). Justification and Interlaced Knowledge at ATLAS, CERN. *Organization Science*, *25*(6), 1579–1608.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.2013.0894)
         - [Griffiths, T. L., Steyvers, M., & Tenenbaum, J. B. (2007). Topics in semantic representation. *Psychological Review*, *114*(2), 211–244.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.2013.0894)
-        - [Liu, H., Maes, P., & Davenport, G. (2006). Unraveling the taste fabric of social networks. *International Journal on Semantic Web and Information Systems*, *2*(1), 42–71.](http://alumni.media.mit.edu/~hugo/publications/drafts/IJSWIS2006-tastefabrics.pdf)
+        - [Liu, H., Maes, P., & Davenport, G. (2006). Unraveling the taste fabric of social networks. *International Journal on Semantic Web and Information Systems*, *2*(1), 42–71.](http://www.igi-global.com/article/unraveling-taste-fabric-social-networks/2816)
     - Software
         - TBD
     - Dataset
