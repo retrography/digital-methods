@@ -1,4 +1,4 @@
-***NOTE:*** *This is the live version of the syllabus. It is under active development, and subject to change.*
+***NOTE:*** *This is a live syllabus. It is under active development, and subject to change.*
 
 ## Teaching Faculty
 
