@@ -268,42 +268,14 @@ Full-Width Styles
 }
 
 #vu_banner {
-  display: block;
-  //border: 5px solid #f2f2f2;
-  //border-right: 7px solid #f2f2f2;
-  //border-right: 7px solid #f2f2f2;
-  position: absolute;
-  top: 55px;
-  right: 90px;
-  z-index: 10;
-  background: url('../images/vu.svg') no-repeat;
-  width: 70px;
-  height: 70px;
-}
-
-#abri_banner {
-  display: block;
-  //border: 5px solid #f2f2f2;
-  //border-right: 7px solid #f2f2f2;
-  //border-right: 7px solid #f2f2f2;
-  position: absolute;
-  top: 115px;
-  right: 70px;
-  z-index: 10;
-  background: url('../images/abri.svg') no-repeat;
-  width: 65px;
-  height: 65px;
-}
-
-/*#vu_banner {
   border-radius: 0 0 2px 0;
   display: block;
   border: 5px solid #f2f2f2;
   border-right: 7px solid #f2f2f2;
   border-right: 7px solid #f2f2f2;
-  position: fixed;
+  position: absolute;
   top: 0px;
-  right: 65px;
+  right: 50px;
   z-index: 10;
   background: url('../images/vu.svg') #f2f2f2 no-repeat;
   width: 36px;
@@ -314,16 +286,16 @@ Full-Width Styles
   border-radius: 0 0 0 2px;
   display: block;
   border: 6px solid #f2f2f2;
-  border-left: 7px solid #f2f2f2;
-  border-right: 7px solid #f2f2f2;
-  position: fixed;
+  border-left: 8px solid #f2f2f2;
+  border-right: 8px solid #f2f2f2;
+  position: absolute;
   top: 0px;
-  right: 113px;
+  right: 98px;
   z-index: 10;
   background: url('../images/abri.svg') #f2f2f2 no-repeat;
   width: 50px;
   height: 34px;
-}*/
+}
 
 #header_wrap {
   background: #212121;
