@@ -1,3 +1,8 @@
+---
+layout: default
+title: {{ site.title }}
+---
+
 ***NOTE:*** *This is a live syllabus. It is under active development, and subject to change.*
 
 ## Teaching Faculty

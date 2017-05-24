@@ -33,3 +33,5 @@ theme: jekyll-theme-slate
 markdown: kramdown
 highlighter: rouge
 
+# Optional settings
+show_downloads: false
