@@ -432,6 +432,26 @@ Full-Width Styles
   margin: 0 auto; }
 
 #vu_banner {
+  display: block;
+  position: absolute;
+  top: 55px;
+  right: 90px;
+  z-index: 10;
+  background: url("../images/vu.svg") no-repeat;
+  width: 70px;
+  height: 70px; }
+
+#abri_banner {
+  display: block;
+  position: absolute;
+  top: 115px;
+  right: 70px;
+  z-index: 10;
+  background: url("../images/abri.svg") no-repeat;
+  width: 65px;
+  height: 65px; }
+
+/*#vu_banner {
   border-radius: 0 0 2px 0;
   display: block;
   border: 5px solid #f2f2f2;
@@ -441,9 +461,10 @@ Full-Width Styles
   top: 0px;
   right: 65px;
   z-index: 10;
-  background: url("../images/vu.svg") #f2f2f2 no-repeat;
+  background: url('../images/vu.svg') #f2f2f2 no-repeat;
   width: 36px;
-  height: 36px; }
+  height: 36px;
+}
 
 #abri_banner {
   border-radius: 0 0 0 2px;
@@ -455,10 +476,10 @@ Full-Width Styles
   top: 0px;
   right: 113px;
   z-index: 10;
-  background: url("../images/abri.svg") #f2f2f2 no-repeat;
+  background: url('../images/abri.svg') #f2f2f2 no-repeat;
   width: 50px;
-  height: 34px; }
-
+  height: 34px;
+}*/
 #header_wrap {
   background: #212121;
   background: -moz-linear-gradient(top, #373737, #212121);
