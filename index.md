@@ -155,3 +155,4 @@ If you haven’t registered yet, but you would like to attend the seminar, you c
 	- [Intro to R Bootcamp](http://uc-r.github.io/r_bootcamp)
 	- [Data Wrangling with R](http://uc-r.github.io/data_wrangling/syllabus)
 	- [R Reference Card](https://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf)
+	- [R for Data Science -- by Hadley Wickham)](http://r4ds.had.co.nz/)
