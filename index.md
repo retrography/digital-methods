@@ -47,7 +47,7 @@ PhD and research master students from the VU, The Netherlands and abroad, engage
 | --- | --- | --- | --- | --- |
 | 1 / J & M | June 1 / 9:00-12:00 | Inductive Theory Building with Digital Methods | BV<a href="#note1" id="note1"><sup>[1]</sup></a> 1H24 | We start with an introduction to computational qualitative research design and theorising relations, processes and meaning using computational methods. |
 | 2 / J & M | June 2 / 9:00-12:00 | Data Collection & Preparation | BV 1H24  | This session is organized as a hands-on tutorial on data formats, data sources, as well as data collection and preparation techniques. |
-| 3 / J | June 9 / 10:00-3:00 | Semantic Analysis: Analyzing Meaning | HG<a href="#hg" id="note2"><sup>[2]</sup></a> 05A24 | Topic modelling and latent semantic analysis can reveal underlying patterns of meaning in large, distributed communities and organisations. We will learn the techniques and discuss their implications for theory building in this session. |
+| 3 / J | June 9 / 10:00-3:00 | Semantic Analysis: Analyzing Meaning | HG<a href="#note2" id="note2"><sup>[2]</sup></a> 05A24 | Topic modelling and latent semantic analysis can reveal underlying patterns of meaning in large, distributed communities and organisations. We will learn the techniques and discuss their implications for theory building in this session. |
 | 4 / M | June 16 / 10:00-3:00 | Social Network Analysis: Analyzing Relations | HG 05A24 |Social network analysis methods allow mapping and measuring of relationships and flows between individuals or collectives. They are the cornerstone of the relational approach to sociology. |
 | 5 / B & P | June 23 / 10:00-3:00 | Sequence Analysis: Analyzing Processes | HG 05A24 | Human behaviour often follow certain patterns of more or less formalised routines and processes. In this session we will learn to analyse and theorise such behavioural patterns in this session. |
 | 6 / J & M & P & B | June 30 / 9:00-12:00 | Paper Workshop | BV 1H24 | During the workshop session the students will work on their data set of choice, under the supervision of the instructors, in order to progress towards the final paper. |
@@ -56,7 +56,7 @@ PhD and research master students from the VU, The Netherlands and abroad, engage
 <a id="note1" href="#note1"><sup>[1]</sup></a> BelleVU building  
 <a id="note2" href="#note2"><sup>[2]</sup></a> Main (Hoofdgebouw) building
 
-[View Map]("assets/images/map.jpg")
+[View Map](assets/images/map.jpg)
 
 ## Class Schedule
 
