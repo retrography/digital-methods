@@ -149,7 +149,7 @@ The seminar will count as 6 ECTS under European credit transfer and accumulation
 
 If you haven’t registered yet, but you would like to attend the seminar, you can use [this form](http://abri.vu.nl/en/doctoral-education/phd-programme/course_registration/index.aspx) to enrol. For additional information on the administrative formalities, contact [graduateschool.abri@vu.nl](mailto:graduateschool.abri@vu.nl). 
 
-## Appendix: R Resources
+## Appendix: Resources
 
 - Software
 	- VirtualBox 5.1.22 ([Windows](http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22-115126-Win.exe) / [macOS](http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22-115126-OSX.dmg) / [Linux](https://www.virtualbox.org/wiki/Linux_Downloads)) + [Extension Pack](http://download.virtualbox.org/virtualbox/5.1.22/Oracle_VM_VirtualBox_Extension_Pack-5.1.22-115126.vbox-extpack)
