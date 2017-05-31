@@ -3,7 +3,7 @@ layout: default
 title: {{ site.title }}
 ---
 
-***NOTE:*** *This is a live syllabus. It is under active development, and subject to change.*
+***NOTE:*** *This is a live syllabus and subject to change. Make sure you always check the live version and not the static copy or the print.*
 
 ## Teaching Faculty
 
