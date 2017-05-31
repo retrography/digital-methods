@@ -153,7 +153,7 @@ If you haven’t registered yet, but you would like to attend the seminar, you c
 
 - Software
 	- VirtualBox 5.1.22 ([Windows](http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22-115126-Win.exe) / [macOS](http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22-115126-OSX.dmg) / [Linux](https://www.virtualbox.org/wiki/Linux_Downloads)) + [Extension Pack](http://download.virtualbox.org/virtualbox/5.1.22/Oracle_VM_VirtualBox_Extension_Pack-5.1.22-115126.vbox-extpack)
-	- [Full VirtualBox image](https://github.com/retrography/digital-methods/releases/download/v1.0/dmimage.vdi.bz2) with the used software (approx. 2GB)
+	- [Full VirtualBox image](https://github.com/retrography/digital-methods/releases/download/v1.0/dmimage_v1.vdi.bz2) with the used software (approx. 2GB)
 
 - R Learning Material
 	- [R Basics](http://uc-r.github.io/section2_basics)
