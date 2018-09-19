@@ -5,6 +5,8 @@ title: {{ site.title }}
 
 ***NOTE:*** *This is a live syllabus and subject to change. Make sure you always check the live version and not the static copy or the print.*
 
+Last updated: 19-09-2018
+
 ## Teaching Faculty
 
 **Mahmood Shafeie Zargar** (KIN / VU - Coordinator)
@@ -13,7 +15,7 @@ title: {{ site.title }}
 **Joey va Angeren** (KIN / VU)
 [Website](http://www.joeyvanangeren.com/) | [Email](mailto:joey.van.angeren@vu.nl)
 
-**Philipp Hukal** (Warwick Business School - Guest)
+**Philipp Hukal** (Copenhagen Business School - Guest)
 [Website](https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/phdigi/) | [Email](mailto:ph.digi@cbs.dk)
 
 **Brian Pentland** (Michigan State - Guest/Unconfirmed)
@@ -41,51 +43,51 @@ During the course the students will:
 
 PhD and research master students from the VU, The Netherlands and abroad, engaged in research projects broadly related to business administration or organization studies. We expect a maximum of 25 participants.
 
-## Course Outline
+## Course Outline (Partially updated)
 
 | **Session** | **Date** | **Topic** | **Location** | **Description** |
 | --- | --- | --- | --- | --- |
-| 1 / J & M | June 1 / 9:00-12:00 | Inductive Theory Building with Digital Methods | BV<a href="#note1" id="note1"><sup>[1]</sup></a> 1H24 | We start with an introduction to computational qualitative research design and theorising relations, processes and meaning using computational methods. |
-| 2 / J & M | June 2 / 9:00-12:00 | Data Collection & Preparation | BV 1H24  | This session is organized as a hands-on tutorial on data formats, data sources, as well as data collection and preparation techniques. |
-| 3 / J | June 9 / 10:00-3:00 | Semantic Analysis: Analyzing Meaning | HG<a href="#note2" id="note2"><sup>[2]</sup></a> 05A24 | Topic modelling and latent semantic analysis can reveal underlying patterns of meaning in large, distributed communities and organisations. We will learn the techniques and discuss their implications for theory building in this session. |
-| 4 / M | June 16 / 10:00-3:00 | Social Network Analysis: Analyzing Relations | HG 05A24 |Social network analysis methods allow mapping and measuring of relationships and flows between individuals or collectives. They are the cornerstone of the relational approach to sociology. |
-| 5 / B & P | June 23 / 10:00-3:00 | Sequence Analysis: Analyzing Processes | HG 05A24 | Human behaviour often follow certain patterns of more or less formalised routines and processes. In this session we will learn to analyse and theorise such behavioural patterns in this session. |
-| 6 / J & M & P & B | June 30 / 9:00-12:00 | Paper Workshop | BV 1H24 | During the workshop session the students will work on their data set of choice, under the supervision of the instructors, in order to progress towards the final paper. |
-| 7 / J & M & B | July 7 / 9:00-12:00 | Paper Submission & Presentation | BV 1H24 | This is a marathon presentation session where the students will share their final paper, and will receive feedback from their peers as well as the instructors. |
+| 1 / J & M | Oct 30 / 9:00-13:15 | Inductive Theory Building with Digital Methods / Intro to R | HG<a href="#note1" id="note1"><sup>[1]</sup></a> 05A91 | We start with an introduction to computational qualitative research design and theorising relations, processes and meaning using computational methods. |
+| 2 / M | Nov 6 / 9:00-13:15 | Data Collection & Preparation / Intro to Course Datasets | HG 05A91 | This session is organized as a hands-on tutorial on data formats, data sources, as well as data collection and preparation techniques. |
+| 3 / J | Nov 13 / 9:00-13:15 | Semantic Analysis: Analyzing Meaning | HG 05A91                                               | Topic modelling and latent semantic analysis can reveal underlying patterns of meaning in large, distributed communities and organisations. We will learn the techniques and discuss their implications for theory building in this session. |
+| 4 / M | Nov 22 / 9:00-13:15 | Social Network Analysis: Analyzing Relations | HG 05A91 |Social network analysis methods allow mapping and measuring of relationships and flows between individuals or collectives. They are the cornerstone of the relational approach to sociology. |
+| 5 / P & B | Nov 29 /  9:00-13:15 | Sequence Analysis: Analyzing Processes | HG 05A91 | Human behaviour often follow certain patterns of more or less formalised routines and processes. In this session we will learn to analyse and theorise such behavioural patterns in this session. |
+| 6 / J & M | Dec 6 / 9:00-12:00 | Paper Workshop | HG 05A91 | During the workshop session the students will work on their data set of choice, under the supervision of the instructors, in order to progress towards the final paper. |
+| 7 / J & M | Dec 13 / 9:00-12:00 | Project Presentation | HG 05A91 | This is a marathon presentation session where the students will share their final paper, and will receive feedback from their peers as well as the instructors. |
+| 8 / J & M & P | Dec 20 | Paper Submission |  |  |
 
-<a id="note1" href="#note1"><sup>[1]</sup></a> BelleVU building  
-<a id="note2" href="#note2"><sup>[2]</sup></a> Main (Hoofdgebouw) building
+<a id="note1" href="#note1"><sup>[1]</sup></a> Main (Hoofdgebouw) building
 
 [View Map](assets/images/map.jpg)
 
 ## Class Schedule
 
-Format for the theory sessions (June 9th, 16th and 23rd):
+Most sessions are organized as follows:
 
-- 10:00-11:00 Lecture (Method & theory building using the method)
-- 11:00-12:30 Paper discussion (Approximately three papers per session)
-- 12:30-1:30 Lunch break
-- 1:30-3:00 Hands-on tutorial
+- 9:00-10:00 Lecture (Method & theory building using the method)
+- 10:00-11:30 Paper discussion (Approximately three papers per session)
+- 11:30-11:45 Lunch break
+- 11:45-1:15 Hands-on tutorial
 
-Format for the other sessions (June 1st, 2nd and 30th, July 7th):
+Format for the other sessions:
 
 - 9:00-12:00 Lecture or workshop with a short break
 
-Use [this web address](https://calendar.google.com/calendar/ical/53ggv2r7qegc4e9cgj1f549nec@group.calendar.google.com/private-35f204458184545b3e421eccd38e2741/basic.ics) in your favourite calendar client to subscribe to the course calendar.
+Use [this web address](https://calendar.google.com/calendar/ical/53ggv2r7qegc4e9cgj1f549nec@group.calendar.google.com/private-35f204458184545b3e421eccd38e2741/basic.ics) in your favourite calendar client to subscribe to the course calendar. (to be updated)
 
 ## Deliverables
 
 The students are supposed to read the mandatory course readings and prepare for the class discussion.
 
-For the theory sessions (June 9th, 16th and 23rd) the students will be designated as paper discussants on a voluntary basis. The paper discussant have five to ten minutes to present the gist of the paper, before launching the class discussion. About 30 minutes is allocated to each paper overall.
+For the theory sessions the students will be designated as paper discussants on a voluntary basis. The paper discussant have five to ten minutes to present the gist of the paper, before launching the class discussion. About 30 minutes is allocated to each paper overall.
 
 A hands-on tutorial will follow each theory session. The students must come prepared to the tutorials as well. They have to familiarize themselves with the software package used in the session beforehand. The tutorial exercises will be communicated to the students at least a week in advance.
 
-The students will have to pick one of the presented methods to implement in their term paper. A short paper proposal (2-3 pages) and a usable dataset are due on the day of the workshop session (June 30th).
+The students will have to pick one of the presented methods to implement in their term paper. A short paper proposal (2-3 pages) and a usable dataset are due on the day of the Paper Workshop session.
 
-The final papers are due on the 7th of July. A presentation session is scheduled on the same day so that the students receive constructive feedback from their colleagues and the instructors.
+A presentation session is scheduled on the last day of the course, so that the students receive constructive feedback from their colleagues and the instructors.
 
-## Course Material
+## Course Material (to be updated)
 
 - **1st Session**
     - Background Reading
@@ -139,25 +141,22 @@ The final papers are due on the 7th of July. A presentation session is scheduled
 
 ## Pre-requisites
 
-The assumption is that the students are initiated to statistics for research, but this is not an absolute prerequisite. It is crucial that students are familiar with computer basics (e.g. know how to navigate their way around the internet) and are proficient in use of computers for handling data files (e.g. using Excel, SPSS, SQL or other software). No experience with coding is necessary, and the course will not require any coding, although knowing how to code can give the students an operational advantage for running more sophisticated projects. The students who lack a basic understanding of the common descriptive and inferential statistics methods may want to take a preliminary statistics course. The students that would like to improve on their data-related informatics skill can get in touch with the instructors beforehand to get tailored recommendations.
+The assumption is that the students are initiated to statistics for research, including basic use of the R programming language. It is crucial that students are familiar with computer basics (e.g. know how to navigate their way around the Internet) and are proficient in use of computers for handling data files (e.g. using Excel, SPSS, SQL or other software). The course will not require coding as a requisite condition for the deliverables, although the students are encouraged to spend some time before and during the course to improve their R skills, so that they make the most out of it. The students who lack a basic understanding of the common descriptive and inferential statistics methods may want to take a preliminary statistics course before taking this course. The students who have no experience with R are required to do the following tutorials and attend a short R workshop at the beginning of the term: [Beginner's Guide to R (Computer World)](https://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html) and [Introduction to R (DataCamp)](https://www.datacamp.com/courses/free-introduction-to-r)
 
 ## Credits
 
-The seminar will count as 6 ECTS under European credit transfer and accumulation system.
+The seminar will count as 6 ECTS under European credit transfer and accumulation system. If required, a certificate can be provided upon the completion of the course.
 
-## Registration (Closed)
+## Registration
 
-If you haven’t registered yet, but you would like to attend the seminar, you can use [this form](http://abri.vu.nl/en/doctoral-education/phd-programme/course_registration/index.aspx) to enrol. For additional information on the administrative formalities, contact [graduateschool.abri@vu.nl](mailto:graduateschool.abri@vu.nl). 
+If you haven’t registered yet, but you would like to attend the seminar, you can use [this form](http://abri.vu.nl/en/doctoral-education/phd-programme/course_registration/index.aspx) to enroll. For additional information on the administrative formalities, contact [graduateschool.abri@vu.nl](mailto:graduateschool.abri@vu.nl). 
 
 ## Appendix: Resources
 
-- Software
-	- VirtualBox 5.1.22 ([Windows](http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22-115126-Win.exe) / [macOS](http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22-115126-OSX.dmg) / [Linux](https://www.virtualbox.org/wiki/Linux_Downloads)) + [Extension Pack](http://download.virtualbox.org/virtualbox/5.1.22/Oracle_VM_VirtualBox_Extension_Pack-5.1.22-115126.vbox-extpack)
-	- [Full VirtualBox image](https://github.com/retrography/digital-methods/releases/download/v1.0/dmimage_v1.vdi.bz2) with the used software (approx. 2GB)
+- Software (to be updated)
+  - VirtualBox 5.1.22 ([Windows](http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22-115126-Win.exe) / [macOS](http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22-115126-OSX.dmg) / [Linux](https://www.virtualbox.org/wiki/Linux_Downloads)) + [Extension Pack](http://download.virtualbox.org/virtualbox/5.1.22/Oracle_VM_VirtualBox_Extension_Pack-5.1.22-115126.vbox-extpack)
+  - [Full VirtualBox image](https://github.com/retrography/digital-methods/releases/download/v1.0/dmimage_v1.vdi.bz2) with the used software (approx. 2GB)
 
-- R Learning Material
-	- [R Basics](http://uc-r.github.io/section2_basics)
-	- [Intro to R Bootcamp](http://uc-r.github.io/r_bootcamp)
-	- [Data Wrangling with R](http://uc-r.github.io/data_wrangling/syllabus)
-	- [R Reference Card](https://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf)
-	- [R for Data Science -- by Hadley Wickham)](http://r4ds.had.co.nz/)
+- Additional R Learning Material
+  - [UC Business Analytics R Programming Guide](http://uc-r.github.io/) 
+  - [R for Data Science -- by Hadley Wickham](http://r4ds.had.co.nz/)
