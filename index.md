@@ -21,20 +21,20 @@ title: {{ site.title }}
 
 ## Course Description
 
-Recent advances in the availability of digital trace data as well as tools for analyzing such data opens up new venues for social science research. These trends allow new types of analysis and open up new arenas for theorization. This course intends to initiate the participants with the tools and insights necessary to navigate and analyze the emerging data landscape. In particular, it aims to provide research students from diverse backgrounds the basic skills and methodological insights to take advantage of digital trace data and computational tools. This course is agnostic to research paradigms and leaves the doors open to participants from qualitative and quantitative backgrounds.
-The course is aimed towards research students and possibly junior scholars within fields related to business administration and organization studies, who are interested in engaging hands-on with digital trace data or are interested to learn about the way in which digital tools are transforming social science research.
+The recent advances in the availability of digital trace data as well as the corresponding data analysis methods have opened up new venues for social science research. These trends allow new types of analysis and make new ways of theorizing possible. This course intends to initiate the participants with a catalogue of contemporary tools and techniques necessary to navigate and analyze the emerging data landscape. In particular, it aims to provide research students from diverse backgrounds with the basic skills and methodological insights to take advantage of digital trace data and computational tools. This course is agnostic to research paradigms and leaves the door open to participants from qualitative and quantitative backgrounds. The course is aimed towards research students from fields related to business administration and organization studies who are either interested in discovering different methods or aiming to enrich their methods toolbox by engaging hands-on with digital trace data. Some basic familiarity with R and a knack for hack are mandatory.
 
-## Learning Outcomes
+
+## Learning Activities & Objectives
 
 During the course the students will:
 
-- Immerse into a new way of qualitative theorizing from digital traces of social interactions, structures and processes beyond hypothesis testing
-- Obtain an overview of available digital trace data sources and the tools use to harvest them
-- Learn about various methodologies for analyzing the digital trace data, the type of research question that can leverage those methods, and the research design and strategy that can match the research questions with the corresponding data
+- Immerse into new ways of building on digital traces of social interactions, structures and processes for explorative and inductive analysis
+- Obtain an overview of available digital trace data sources and the tools to harvest them
+- Learn about various methodologies for analyzing the digital trace data, the type of research question that leverages those methods, and the research design and strategies that match the research questions with the corresponding data
 - Initiate and develop their own data-driven research project under the supervision of the instructors
 - Understand the data sources and methods for making sense of an increasingly digitized world
-- Gain operational knowledge of a few important analytics and digital research methods
-- Focus on use of computational analytic methods for qualitative and explorative research
+- Gain operational knowledge of a handful of important analytics and digital research methods
+- Focus on use of computational analytic methods for exploratory and qualitative research
 - Understand how digital methods affect research design and theory building in organization studies
 
 ## Target Audience
