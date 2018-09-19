@@ -10,14 +10,14 @@ title: {{ site.title }}
 **Mahmood Shafeie Zargar** (KIN / VU - Coordinator)
 [Website](http://www.kinresearch.nl/person/mahmood-zargar/) | [Email](mailto:m.shafeiezargar@vu.nl)
 
-**Jonas Valbjørn Andersen** (KIN / VU)
-[Website](http://www.kinresearch.nl/person/jonas-valbjorn-andersen/) | [Email](mailto:j.v.andersen@vu.nl)
-
-**Brian Pentland** (Michigan State - Guest)
-[Website](http://broad.msu.edu/facultystaff/pentland/) | [Email](mailto:pentland@broad.msu.edu)
+**Joey va Angeren** (KIN / VU)
+[Website](http://www.joeyvanangeren.com/) | [Email](mailto:joey.van.angeren@vu.nl)
 
 **Philipp Hukal** (Warwick Business School - Guest)
-[Website](https://www.linkedin.com/in/phukal) | [Email](mailto:phd14ph@mail.wbs.ac.uk)
+[Website](https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/phdigi/) | [Email](mailto:ph.digi@cbs.dk)
+
+**Brian Pentland** (Michigan State - Guest/Unconfirmed)
+[Website](http://broad.msu.edu/facultystaff/pentland/) | [Email](mailto:pentland@broad.msu.edu)
 
 ## Course Description
 
