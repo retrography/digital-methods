@@ -126,9 +126,10 @@ The final papers are due on the 7th of July. A presentation session is scheduled
         - [Abbott, A. (1990). A primer on sequence methods. *Organization science*, *1*(4), 375-392.
 ](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1.4.375)  
     - Session Papers
-        - [Poole et al (2017), Sequential Analysis of Processes, in Langley, A., & Tsoukas, H. (Eds.). *The Sage handbook of process organization studies*. Thousand Oaks, Sage, pp. 254-270.](https://uk.sagepub.com/en-gb/eur/the-sage-handbook-of-process-organization-studies/book243122)
+        - [Lindberg, A., Berente, N., Gaskin, J., & Lyytinen, K. (2016). Coordinating Interdependencies in Online Communities: A Study of an Open Source Software Project. Information Systems Research, 27(4), 751–772.](https://pubsonline.informs.org/doi/10.1287/isre.2016.0673)
+	- [Gaskin, J., Berente, N., Lyytinen, K., & Yoo, Y. (2014). Toward Generalizable Sociomaterial Inquiry: A Computational Approach for Zooming In and Out of Sociomaterial Routines](https://misq.org/toward-generalizable-sociomaterial-inquiry-a-computational-approach-for-zooming-in-and-out-of-sociomaterial-routines.html)
         - [Pentland, B. T., & Feldman, M. S. (2007). Narrative networks: Patterns of technology and organization. *Organization science*, *18*(5), 781-795.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0283)
-        - [Goh, J. M., Gao, G., & Agarwal, R. (2011). Evolving work routines: Adaptive routinization of information technology in healthcare. *Information Systems Research*, *22*(3), 565-585.](http://pubsonline.informs.org/doi/abs/10.1287/isre.1110.0365)
+
     - Software
         - [TraMineR (R Package)](http://traminer.unige.ch/) — [Intro Vignette](https://cran.r-project.org/web/packages/TraMineR/vignettes/TraMineR-state-sequence.pdf) 
 
