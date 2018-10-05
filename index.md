@@ -129,7 +129,7 @@ A presentation session is scheduled on the last day of the course, so that the s
 ](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1.4.375)  
     - Session Papers
         - [Lindberg, A., Berente, N., Gaskin, J., & Lyytinen, K. (2016). Coordinating Interdependencies in Online Communities: A Study of an Open Source Software Project. Information Systems Research, 27(4), 751–772.](https://pubsonline.informs.org/doi/10.1287/isre.2016.0673)
-	- [Gaskin, J., Berente, N., Lyytinen, K., & Yoo, Y. (2014). Toward Generalizable Sociomaterial Inquiry: A Computational Approach for Zooming In and Out of Sociomaterial Routines](https://misq.org/toward-generalizable-sociomaterial-inquiry-a-computational-approach-for-zooming-in-and-out-of-sociomaterial-routines.html)
+		- [Gaskin, J., Berente, N., Lyytinen, K., & Yoo, Y. (2014). Toward Generalizable Sociomaterial Inquiry: A Computational Approach for Zooming In and Out of Sociomaterial Routines](https://misq.org/toward-generalizable-sociomaterial-inquiry-a-computational-approach-for-zooming-in-and-out-of-sociomaterial-routines.html)
         - [Pentland, B. T., & Feldman, M. S. (2007). Narrative networks: Patterns of technology and organization. *Organization science*, *18*(5), 781-795.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0283)
 
     - Software
