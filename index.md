@@ -25,7 +25,6 @@ Last updated: 19-09-2018
 
 The recent advances in the availability of digital trace data as well as the corresponding data analysis methods have opened up new venues for social science research. These trends allow new types of analysis and make new ways of theorizing possible. This course intends to initiate the participants with a catalogue of contemporary tools and techniques necessary to navigate and analyze the emerging data landscape. In particular, it aims to provide research students from diverse backgrounds with the basic skills and methodological insights to take advantage of digital trace data and computational tools. This course is agnostic to research paradigms and leaves the door open to participants from qualitative and quantitative backgrounds. The course is aimed towards research students from fields related to business administration and organization studies who are either interested in discovering different methods or aiming to enrich their methods toolbox by engaging hands-on with digital trace data. Some basic familiarity with R and a knack for hack are mandatory.
 
-
 ## Learning Activities & Objectives
 
 During the course the students will:
@@ -106,11 +105,12 @@ A presentation session is scheduled on the last day of the course, so that the s
         - [Blei, D. M. (2012). Probabilistic Topic Models. *Communications of the ACM*, *55*(4), 77-84.](https://dl.acm.org/citation.cfm?id=2133826)
         - [Kobayashi, V. B., Mol, S. T., Berkers, H. A., Kismihok, G., & Den Hartog (2018). Text Mining in Organizational Research. *Organizational Research Methods*, *21*(3), 733-765.](http://journals.sagepub.com/doi/abs/10.1177/1094428117722619)
     - Session Papers
-        - [Croidieu, G. & Kim, P. H. (2018). Labor of Love: Amateurs and Lay-expertise Legitimation in the Early U.S. Radio Field. *Administrative Science Quarterly*, *63*(1), 1-42.](http://journals.sagepub.com/doi/abs/10.1177/0001839216686531?casa_token=kG7lOeXS_MoAAAAA:1-PNkJuK9lMEHw-rlRlGzKO-WElOLshwfhPV0BzBsCTBTGQN_289ZqBs4M0gyejQn1gwvnGEoI_o)
-        - [Kaplan, S. & Vakili, K. (2015). The double-edged sword of recombination in breakthrough innovation. *Strategic Management Journal*, *36*(10), 1435-1457.](https://onlinelibrary.wiley.com /doi/abs/10.1002/smj.2294)
+        - [Croidieu, G. & Kim, P. H. (2018). Labor of Love: Amateurs and Lay-expertise Legitimation in the Early U.S. Radio Field. *Administrative Science Quarterly*, *63*(1), 1-42.](http://journals.sagepub.com/doi/abs/10.1177/0001839216686531)
+        - [Kaplan, S. & Vakili, K. (2015). The double-edged sword of recombination in breakthrough innovation. *Strategic Management Journal*, *36*(10), 1435-1457.](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2294)
         - [Tirunillai, S. & Tellis, G. J. (2014). Mining Marketing Meaning from Online Chatter: Strategic Brand Analysis of Big Data Using Latent Dirichlet Allocation. *Journal of Marketing Research*, *51*(4), 463-479.](http://journals.ama.org/doi/abs/10.1509/jmr.12.0106)
     - Software
-        - [tm (R package)](https://cran.r-project.org/web/packages/tm/index.html) — [lda (R package)](https://cran.r-project.org/web/packages/lda/index.html)
+        - [tm (R package)](https://cran.r-project.org/web/packages/tm/index.html) 
+		— [lda (R package)](https://cran.r-project.org/web/packages/lda/index.html)
     - Dataset
         - TBA
 - **4th Session**
@@ -132,7 +132,6 @@ A presentation session is scheduled on the last day of the course, so that the s
         - [Lindberg, A., Berente, N., Gaskin, J., & Lyytinen, K. (2016). Coordinating Interdependencies in Online Communities: A Study of an Open Source Software Project. Information Systems Research, 27(4), 751–772.](https://pubsonline.informs.org/doi/10.1287/isre.2016.0673)
 		- [Gaskin, J., Berente, N., Lyytinen, K., & Yoo, Y. (2014). Toward Generalizable Sociomaterial Inquiry: A Computational Approach for Zooming In and Out of Sociomaterial Routines](https://misq.org/toward-generalizable-sociomaterial-inquiry-a-computational-approach-for-zooming-in-and-out-of-sociomaterial-routines.html)
 		- [Pentland, B. T., & Feldman, M. S. (2007). Narrative networks: Patterns of technology and organization. *Organization science*, *18*(5), 781-795.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0283)
-
     - Software
         - [TraMineR (R Package)](http://traminer.unige.ch/) — [Intro Vignette](https://cran.r-project.org/web/packages/TraMineR/vignettes/TraMineR-state-sequence.pdf) 
 
