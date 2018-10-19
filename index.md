@@ -13,7 +13,7 @@ Last updated: 19-09-2018
 [Website](http://www.kinresearch.nl/person/mahmood-zargar/) | [Email](mailto:m.shafeiezargar@vu.nl)
 
 **Joey va Angeren** (KIN / VU)
-[Website](http://www.joeyvanangeren.com/) | [Email](mailto:joey.van.angeren@vu.nl)
+[Website](https://research.vu.nl/en/persons/joey-van-angeren) | [Email](mailto:joey.van.angeren@vu.nl)
 
 **Philipp Hukal** (Copenhagen Business School - Guest)
 [Website](https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/phdigi/) | [Email](mailto:ph.digi@cbs.dk)
@@ -103,14 +103,16 @@ A presentation session is scheduled on the last day of the course, so that the s
         - [Hanneman, R., & Riddle, M. (2005). Chapter 1: Social network data. In *Introduction to social network methods*. University of California, Riverside](http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html)
 - **3rd Session**
     - Background Reading
-        - [Urquhart, C., Lehmann, H., & Myers, M. D. (2010). Putting the “theory” back into grounded theory: guidelines for grounded theory studies in information systems. *Information Systems Journal*, *20*(4), 357–381.](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2575.2009.00328.x/full)
-        - [Suddaby, R. (2006). From the Editors: What Grounded Theory is Not. *Academy of Management Journal. Academy of Management*, *49*(4), 633–642.](http://amj.aom.org/content/49/4/633.short)
+        - [Blei, D. M. (2012). Probabilistic Topic Models. *Communications of the ACM*, *55*(4), 77-84.](https://dl.acm.org/citation.cfm?id=2133826)
+        - [Kobayashi, V. B., Mol, S. T., Berkers, H. A., Kismihok, G., & Den Hartog (2018). Text Mining in Organizational Research. *Organizational Research Methods*, *21*(3), 733-765.](http://journals.sagepub.com/doi/abs/10.1177/1094428117722619)
     - Session Papers
-        - [Tuertscher, P., Garud, R., & Kumaraswamy, A. (2014). Justification and Interlaced Knowledge at ATLAS, CERN. *Organization Science*, *25*(6), 1579–1608.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.2013.0894)
-        - [Griffiths, T. L., Steyvers, M., & Tenenbaum, J. B. (2007). Topics in semantic representation. *Psychological Review*, *114*(2), 211–244.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.2013.0894)
-        - [Liu, H., Maes, P., & Davenport, G. (2006). Unraveling the taste fabric of social networks. *International Journal on Semantic Web and Information Systems*, *2*(1), 42–71.](http://www.igi-global.com/article/unraveling-taste-fabric-social-networks/2816)
+        - [Croidieu, G. & Kim, P. H. (2018). Labor of Love: Amateurs and Lay-expertise Legitimation in the Early U.S. Radio Field. *Administrative Science Quarterly*, *63*(1), 1-42.](http://journals.sagepub.com/doi/abs/10.1177/0001839216686531?casa_token=kG7lOeXS_MoAAAAA:1-PNkJuK9lMEHw-rlRlGzKO-WElOLshwfhPV0BzBsCTBTGQN_289ZqBs4M0gyejQn1gwvnGEoI_o)
+        - [Kaplan, S. & Vakili, K. (2015). The double-edged sword of recombination in breakthrough innovation. *Strategic Management Journal*, *36*(10), 1435-1457.](https://onlinelibrary.wiley.com /doi/abs/10.1002/smj.2294)
+        - [Tirunillai, S. & Tellis, G. J. (2014). Mining Marketing Meaning from Online Chatter: Strategic Brand Analysis of Big Data Using Latent Dirichlet Allocation. *Journal of Marketing Research*, *51*(4), 463-479.](http://journals.ama.org/doi/abs/10.1509/jmr.12.0106)
     - Software
-        - [lsa (R Package)](https://cran.r-project.org/web/packages/lsa/index.html)
+        - [tm (R package)](https://cran.r-project.org/web/packages/tm/index.html) — [lda (R package)](https://cran.r-project.org/web/packages/lda/index.html)
+    - Dataset
+        - TBA
 - **4th Session**
     - Background Reading (One of the two)
         - [Emirbayer, M. (1997). Manifesto for a Relational Sociology. *The American Journal of Sociology*, *103*(2), 281–317.](http://dx.doi.org/10.1086/231209)
