@@ -110,7 +110,7 @@ A presentation session is scheduled on the last day of the course, so that the s
         - [Tirunillai, S. & Tellis, G. J. (2014). Mining Marketing Meaning from Online Chatter: Strategic Brand Analysis of Big Data Using Latent Dirichlet Allocation. *Journal of Marketing Research*, *51*(4), 463-479.](http://journals.ama.org/doi/abs/10.1509/jmr.12.0106)
     - Software
         - [tm (R package)](https://cran.r-project.org/web/packages/tm/index.html) 
-		— [lda (R package)](https://cran.r-project.org/web/packages/lda/index.html)
+		- [lda (R package)](https://cran.r-project.org/web/packages/lda/index.html)
     - Dataset
         - TBA
 - **4th Session**
