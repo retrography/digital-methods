@@ -5,7 +5,7 @@ title: {{ site.title }}
 
 ***NOTE:*** *This is a live syllabus and subject to change. Make sure you always check the live version and not the static copy or the print.*
 
-Last updated: 19-09-2018
+Last updated: 19-10-2018
 
 ## Teaching Faculty
 
