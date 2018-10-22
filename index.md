@@ -46,7 +46,7 @@ PhD and research master students from the VU, The Netherlands and abroad, engage
 
 | **Session** | **Date** | **Topic** | **Location** | **Description** |
 | --- | --- | --- | --- | --- |
-| 1 / J & M | Oct 30 / 9:00-13:15 | Inductive Theory Building with Digital Methods / Intro to R | HG<a href="#note1" id="note1"><sup>[1]</sup></a> 05A91 | We start with an introduction to computational qualitative research design and theorising relations, processes and meaning using computational methods. |
+| 1 / J & M | Oct 30 / 9:00-13:15 | Theory Building in the Age of Digital Data / Intro to R | HG<a href="#note1" id="note1"><sup>[1]</sup></a> 05A91<a href="#note1" id="note1"><sup>[2]</sup></a> | We start with an introduction to computational qualitative research design and theorising relations, processes and meaning using computational methods. |
 | 2 / M | Nov 6 / 9:00-13:15 | Data Collection & Preparation / Intro to Course Datasets | HG 05A91 | This session is organized as a hands-on tutorial on data formats, data sources, as well as data collection and preparation techniques. |
 | 3 / J | Nov 13 / 9:00-13:15 | Semantic Analysis: Analyzing Meaning | HG 05A91                                               | Topic modelling and latent semantic analysis can reveal underlying patterns of meaning in large, distributed communities and organisations. We will learn the techniques and discuss their implications for theory building in this session. |
 | 4 / M | Nov 22 / 9:00-13:15 | Social Network Analysis: Analyzing Relations | HG 05A91 |Social network analysis methods allow mapping and measuring of relationships and flows between individuals or collectives. They are the cornerstone of the relational approach to sociology. |
@@ -56,6 +56,7 @@ PhD and research master students from the VU, The Netherlands and abroad, engage
 | 8 / J & M & P | Dec 20 | Paper Submission |  |  |
 
 <a id="note1" href="#note1"><sup>[1]</sup></a> Main (Hoofdgebouw) building
+<a id="note2" href="#note2"><sup>[2]</sup></a> The classroom is within the staff-only perimeter of the building. You can use the inter-phone on the ground floor, or the buzzers on the 5th floor to call the course coordinator, once you are here. Alternatively, drop him an email in advance and set an appointment.
 
 [View Map](assets/images/map.jpg)
 
@@ -63,14 +64,14 @@ PhD and research master students from the VU, The Netherlands and abroad, engage
 
 Most sessions are organized as follows:
 
-- 9:00-10:00 Lecture (Method & theory building using the method)
-- 10:00-11:30 Paper discussion (Approximately three papers per session)
-- 11:30-11:45 Lunch break
-- 11:45-1:15 Hands-on tutorial
+- 09:00–10:00 Lecture (Method & theory building using the method)
+- 10:00–11:30 Paper discussion (Approximately three papers per session)
+- 11:30–11:45 Short break
+- 11:45–13:15 Hands-on tutorial
 
 Format for the other sessions:
 
-- 9:00-12:00 Lecture or workshop with a short break
+- 09:00–12:00 Lecture or workshop with a short break
 
 Use [this web address](https://calendar.google.com/calendar/ical/53ggv2r7qegc4e9cgj1f549nec@group.calendar.google.com/private-35f204458184545b3e421eccd38e2741/basic.ics) in your favourite calendar client to subscribe to the course calendar. (to be updated)
 
