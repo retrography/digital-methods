@@ -91,10 +91,12 @@ A presentation session is scheduled on the last day of the course, so that the s
 - **1st Session**
     - Background Reading
         - [Sutton, R. I., & Staw, B. M. (1995). What Theory is Not. *Administrative Science Quarterly*, *40*(3), 371–384.](http://www.jstor.org/stable/2393788)
-        - [Corley, K. G., & Gioia, D. A. (2011). Building Theory about Theory Building: What Constitutes a Theoretical Contribution? *Academy of Management Review. Academy of Management*, *36*(1), 12–32.](http://amr.aom.org/content/36/1/12.1.short)
+        - [Corley, K. G., & Gioia, D. A. (2011). Building Theory about Theory Building: What Constitutes a Theoretical Contribution? *Academy of Management Review*, *36*(1), 12–32.](http://amr.aom.org/content/36/1/12.1.short)
         - [Abbott, A. (1992). From Causes to Events. *Sociological Methods & Research*, *20*(4), 428–455.](http://journals.sagepub.com/doi/abs/10.1177/0049124192020004002)
         - [Venturini, T., & Latour, B. (2010). The Social Fabric: Digital Traces and Quali-quantitative Methods. In *Proceedings of Future En Seine*. ](http://medialab.sciences-po.fr/publications/Venturini_Latour-The_Social_Fabric.pdf)
         - [Candea, M. (2010). Tarde’s idea of quantification. In M. Candea (Ed.), *The Social After Gabriel Tarde: Debates and Assessments* (pp. 145–162). Routledge.](https://hal-sciencespo.archives-ouvertes.fr/hal-00973004/document)
+        - [Emirbayer, M. (1997). Manifesto for a Relational Sociology. *The American Journal of Sociology*, *103*(2), 281–317.](http://dx.doi.org/10.1086/231209)
+        - [Berente, N., Seidel, S., & Safadi, H. (2018). Data-Driven Computationally-Intensive Theory Development. *Information Systems Research*, Forthcoming.](https://www.researchgate.net/profile/Nicholas_Berente/publication/322069351_Data-Driven_Computationally-Intensive_Theory_Development/links/5a426dee458515f6b04fc5b2/Data-Driven-Computationally-Intensive-Theory-Development.pdf)
 - **2nd Session**
     - Background Reading
         - [Wickham, H. (2014). Tidy Data. Journal of Statistical Software, 59(1), 1–23.](http://dx.doi.org/10.18637/jss.v059.i10)
@@ -110,12 +112,11 @@ A presentation session is scheduled on the last day of the course, so that the s
         - [Tirunillai, S. & Tellis, G. J. (2014). Mining Marketing Meaning from Online Chatter: Strategic Brand Analysis of Big Data Using Latent Dirichlet Allocation. *Journal of Marketing Research*, *51*(4), 463-479.](http://journals.ama.org/doi/abs/10.1509/jmr.12.0106)
     - Software
         - [tm (R package)](https://cran.r-project.org/web/packages/tm/index.html) 
-		- [lda (R package)](https://cran.r-project.org/web/packages/lda/index.html)
+    	- [lda (R package)](https://cran.r-project.org/web/packages/lda/index.html)
     - Dataset
         - TBA
 - **4th Session**
     - Background Reading (One of the two)
-        - [Emirbayer, M. (1997). Manifesto for a Relational Sociology. *The American Journal of Sociology*, *103*(2), 281–317.](http://dx.doi.org/10.1086/231209)
         - [Kilduff, M., & Brass, D. J. (2010). Organizational Social Network Research: Core Ideas and Key Debates. *The Academy of Management Annals*, *4*(1), 317–357.](http://annals.aom.org/content/4/1/317)
     - Session Papers
         - [Padgett, J. F., & Ansell, C. K. (1993). Robust Action and the Rise of the Medici, 1400-1434. *The American Journal of Sociology*, *98*(6), 1259–1319.](http://www.jstor.org/stable/2781822)
@@ -130,8 +131,8 @@ A presentation session is scheduled on the last day of the course, so that the s
         - [Abbott, A. (1990). A primer on sequence methods. *Organization science*, *1*(4), 375-392.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1.4.375)  
     - Session Papers
         - [Lindberg, A., Berente, N., Gaskin, J., & Lyytinen, K. (2016). Coordinating Interdependencies in Online Communities: A Study of an Open Source Software Project. Information Systems Research, 27(4), 751–772.](https://pubsonline.informs.org/doi/10.1287/isre.2016.0673)
-		- [Gaskin, J., Berente, N., Lyytinen, K., & Yoo, Y. (2014). Toward Generalizable Sociomaterial Inquiry: A Computational Approach for Zooming In and Out of Sociomaterial Routines](https://misq.org/toward-generalizable-sociomaterial-inquiry-a-computational-approach-for-zooming-in-and-out-of-sociomaterial-routines.html)
-		- [Pentland, B. T., & Feldman, M. S. (2007). Narrative networks: Patterns of technology and organization. *Organization science*, *18*(5), 781-795.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0283)
+    	- [Gaskin, J., Berente, N., Lyytinen, K., & Yoo, Y. (2014). Toward Generalizable Sociomaterial Inquiry: A Computational Approach for Zooming In and Out of Sociomaterial Routines](https://misq.org/toward-generalizable-sociomaterial-inquiry-a-computational-approach-for-zooming-in-and-out-of-sociomaterial-routines.html)
+    	- [Pentland, B. T., & Feldman, M. S. (2007). Narrative networks: Patterns of technology and organization. *Organization science*, *18*(5), 781-795.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0283)
     - Software
         - [TraMineR (R Package)](http://traminer.unige.ch/) — [Intro Vignette](https://cran.r-project.org/web/packages/TraMineR/vignettes/TraMineR-state-sequence.pdf) 
 
