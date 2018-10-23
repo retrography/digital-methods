@@ -42,7 +42,7 @@ During the course the students will:
 
 PhD and research master students from the VU, The Netherlands and abroad, engaged in research projects broadly related to business administration or organization studies. We expect a maximum of 25 participants.
 
-## Course Outline (Partially updated)
+## Course Outline
 
 | **Session** | **Date** | **Topic** | **Location** | **Description** |
 | --- | --- | --- | --- | --- |
@@ -50,7 +50,7 @@ PhD and research master students from the VU, The Netherlands and abroad, engage
 | 2 / M | Nov 6 / 09:00–12:00 | Data Collection & Preparation / Intro to Course Datasets | HG05A91 | This session is organised as a hands-on tutorial on data formats, data sources, as well as data collection and preparation techniques. |
 | 3 / J | Nov 13 / 09:00–13:15 | Semantic Analysis: Analyzing Meaning | HG05A91                                              | Topic modelling and latent semantic analysis can reveal underlying patterns of meaning in large, distributed communities and organisations. We will learn the techniques and discuss their implications for theory building in this session. |
 | 4 / M | Nov 22 / 09:00–13:15 | Social Network Analysis: Analyzing Relations | HG05A91 |Social network analysis methods allow mapping and measuring of relationships and flows between individuals or collectives. They are the cornerstone of the relational approach to sociology. |
-| 5 / P & B | Nov 29 /  09:00–13:15 | Sequence Analysis: Analyzing Processes | HG05A91 | Human behaviour often follow certain patterns of more or less formalised routines and processes. In this session we will learn to analyse and theorise such behavioural patterns in this session. |
+| 5 / P & B? | Nov 29 /  09:00–13:15 | Sequence Analysis: Analyzing Processes | HG05A91 | Human behaviour often follow certain patterns of more or less formalised routines and processes. In this session we will learn to analyse and theorise such behavioural patterns in this session. |
 | 6 / J & M | Dec 6 / 09:00–12:00 | Paper Workshop | HG05A91 | During the workshop session the students will work on their data set of choice, under the supervision of the instructors, in order to progress towards the final paper. |
 | 7 / J & M | Dec 13 / 09:00–12:00 | Project Presentation | HG05A91 | This is a marathon presentation session where the students will share their final paper, and will receive feedback from their peers as well as the instructors. |
 | 8 / J & M & P | Dec 20 | Paper Submission |  |  |
@@ -73,8 +73,6 @@ Format for the other sessions:
 
 - 09:00–12:00 Lecture or workshop with a short break
 
-Use [this web address](https://calendar.google.com/calendar/ical/53ggv2r7qegc4e9cgj1f549nec@group.calendar.google.com/private-35f204458184545b3e421eccd38e2741/basic.ics) in your favourite calendar client to subscribe to the course calendar. (to be updated)
-
 ## Deliverables
 
 The students are supposed to read the mandatory course readings and prepare for the class discussion.
@@ -87,26 +85,22 @@ The students will have to pick one of the presented methods to implement in thei
 
 A presentation session is scheduled on the last day of the course, so that the students receive constructive feedback from their colleagues and the instructors.
 
-## Course Material (to be updated)
+## Course Material
 
 - **1st Session**
-    - Background Reading
-        - [Sutton, R. I., & Staw, B. M. (1995). What Theory is Not. *Administrative Science Quarterly*, *40*(3), 371–384.](http://www.jstor.org/stable/2393788)
-        - [Corley, K. G., & Gioia, D. A. (2011). Building Theory about Theory Building: What Constitutes a Theoretical Contribution? *Academy of Management Review*, *36*(1), 12–32.](http://amr.aom.org/content/36/1/12.1.short)
-        - [Abbott, A. (1992). From Causes to Events. *Sociological Methods & Research*, *20*(4), 428–455.](http://journals.sagepub.com/doi/abs/10.1177/0049124192020004002)
+    - Readings
         - [Venturini, T., & Latour, B. (2010). The Social Fabric: Digital Traces and Quali-quantitative Methods. In *Proceedings of Future En Seine*. ](http://medialab.sciences-po.fr/publications/Venturini_Latour-The_Social_Fabric.pdf)
-        - [Candea, M. (2010). Tarde’s idea of quantification. In M. Candea (Ed.), *The Social After Gabriel Tarde: Debates and Assessments* (pp. 145–162). Routledge.](https://hal-sciencespo.archives-ouvertes.fr/hal-00973004/document)
-        - [Emirbayer, M. (1997). Manifesto for a Relational Sociology. *The American Journal of Sociology*, *103*(2), 281–317.](http://dx.doi.org/10.1086/231209)
         - [Berente, N., Seidel, S., & Safadi, H. (2018). Data-Driven Computationally-Intensive Theory Development. *Information Systems Research*, Forthcoming.](https://www.researchgate.net/profile/Nicholas_Berente/publication/322069351_Data-Driven_Computationally-Intensive_Theory_Development/links/5a426dee458515f6b04fc5b2/Data-Driven-Computationally-Intensive-Theory-Development.pdf)
+        - [Emirbayer, M. (1997). Manifesto for a Relational Sociology. *The American Journal of Sociology*, *103*(2), 281–317.](http://dx.doi.org/10.1086/231209)
+        - [Abbott, A. (1992). From Causes to Events. *Sociological Methods & Research*, *20*(4), 428–455.](http://journals.sagepub.com/doi/abs/10.1177/0049124192020004002)
 - **2nd Session**
-    - Background Reading
+    - Readings
         - [Howard T. Welser, Marc Smith, Danyel Fisher & Eric Gleave. (2008). Distilling Digital Traces: Computational Social Science Approaches to Studying the Internet. In N. G. Fielding, R. M. Lee, & G. Blank (Eds.), *The SAGE Handbook of Online Research Methods* (pp. 116–140). SAGE Publications.](http://dx.doi.org/10.4135/9780857020055)
         - [Wickham, H. (2014). Tidy Data. Journal of Statistical Software, 59(1), 1–23.](http://dx.doi.org/10.18637/jss.v059.i10)
         - [Silge, J., & Robinson, D. (2017). The tidy text format. In *Text Mining with R: A Tidy Approach* (pp. 1–12). O’Reilly Media.](https://www.tidytextmining.com/tidytext.html)
-        - [Marres, N., & Weltevrede, E. (2013). Scraping The Social? Issues in live social research. *Journal of Cultural Economy*, *6*(3), 313–335.](http://www.tandfonline.com/doi/abs/10.1080/17530350.2013.772070)
         - [Hanneman, R., & Riddle, M. (2005). Chapter 1: Social network data. In *Introduction to social network methods*. University of California, Riverside](http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html)
 - **3rd Session**
-    - Background Reading
+    - Background Readings
         - [Blei, D. M. (2012). Probabilistic Topic Models. *Communications of the ACM*, *55*(4), 77-84.](https://dl.acm.org/citation.cfm?id=2133826)
         - [Kobayashi, V. B., Mol, S. T., Berkers, H. A., Kismihok, G., & Den Hartog (2018). Text Mining in Organizational Research. *Organizational Research Methods*, *21*(3), 733-765.](http://journals.sagepub.com/doi/abs/10.1177/1094428117722619)
     - Session Papers
@@ -119,25 +113,27 @@ A presentation session is scheduled on the last day of the course, so that the s
     - Dataset
         - TBA
 - **4th Session**
-    - Background Reading (One of the two)
+    - Background Reading
         - [Kilduff, M., & Brass, D. J. (2010). Organizational Social Network Research: Core Ideas and Key Debates. *The Academy of Management Annals*, *4*(1), 317–357.](http://annals.aom.org/content/4/1/317)
     - Session Papers
         - [Padgett, J. F., & Ansell, C. K. (1993). Robust Action and the Rise of the Medici, 1400-1434. *The American Journal of Sociology*, *98*(6), 1259–1319.](http://www.jstor.org/stable/2781822)
         - [Gould, R. V. (1991). Multiple Networks and Mobilization in the Paris Commune, 1871. *American Sociological Review*, *56*(6), 716–729.](http://www.jstor.org/stable/2096251)
         - [Shwed, U., & Bearman, P. S. (2010). The Temporal Structure of Scientific Consensus Formation. *American Sociological Review*, *75*(6), 817–840.](http://dx.doi.org/10.1177/0003122410388488)
     - Software
-        - [Gephi](https://gephi.org/) — [Quick Start](https://gephi.org/users/quick-start/)
+        - TBA
     - Dataset
-        - Lazega ([Description](http://moreno.ss.uci.edu/data.html#lazega) / [Download](https://retrography.github.io/digital-methods/assets/data/lazega.graphml))
+        - TBA
 - **5th Session**
     - Background Reading
         - [Abbott, A. (1990). A primer on sequence methods. *Organization science*, *1*(4), 375-392.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1.4.375)  
     - Session Papers
         - [Lindberg, A., Berente, N., Gaskin, J., & Lyytinen, K. (2016). Coordinating Interdependencies in Online Communities: A Study of an Open Source Software Project. Information Systems Research, 27(4), 751–772.](https://pubsonline.informs.org/doi/10.1287/isre.2016.0673)
-    	- [Gaskin, J., Berente, N., Lyytinen, K., & Yoo, Y. (2014). Toward Generalizable Sociomaterial Inquiry: A Computational Approach for Zooming In and Out of Sociomaterial Routines](https://misq.org/toward-generalizable-sociomaterial-inquiry-a-computational-approach-for-zooming-in-and-out-of-sociomaterial-routines.html)
-    	- [Pentland, B. T., & Feldman, M. S. (2007). Narrative networks: Patterns of technology and organization. *Organization science*, *18*(5), 781-795.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0283)
+        - [Gaskin, J., Berente, N., Lyytinen, K., & Yoo, Y. (2014). Toward Generalizable Sociomaterial Inquiry: A Computational Approach for Zooming In and Out of Sociomaterial Routines](https://misq.org/toward-generalizable-sociomaterial-inquiry-a-computational-approach-for-zooming-in-and-out-of-sociomaterial-routines.html)
+        - [Pentland, B. T., & Feldman, M. S. (2007). Narrative networks: Patterns of technology and organization. *Organization science*, *18*(5), 781-795.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0283)
     - Software
         - [TraMineR (R Package)](http://traminer.unige.ch/) — [Intro Vignette](https://cran.r-project.org/web/packages/TraMineR/vignettes/TraMineR-state-sequence.pdf) 
+    - Dataset
+        - TBA
 
 ## Grading
 
@@ -160,9 +156,17 @@ If you haven’t registered yet, but you would like to attend the seminar, you c
 ## Appendix: Resources
 
 - Software (to be updated)
-  - VirtualBox 5.1.22 ([Windows](http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22-115126-Win.exe) / [macOS](http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22-115126-OSX.dmg) / [Linux](https://www.virtualbox.org/wiki/Linux_Downloads)) + [Extension Pack](http://download.virtualbox.org/virtualbox/5.1.22/Oracle_VM_VirtualBox_Extension_Pack-5.1.22-115126.vbox-extpack)
-  - [Full VirtualBox image](https://github.com/retrography/digital-methods/releases/download/v1.0/dmimage_v1.vdi.bz2) with the used software (approx. 2GB)
-
+  - [R](https://www.r-project.org)
+  - [R Studio](https://www.rstudio.com/products/rstudio/download/#download)
+  - [Gephi](https://gephi.org)
+  - [Open Refine](http://openrefine.org/download.html)
+  - [A Git Client](https://git-scm.com/downloads)
+  - For the required R packages run the following line of code in R
+    - `Source("https://raw.githubusercontent.com/retrography/digital-methods/master/setup.R")`
 - Additional R Learning Material
   - [UC Business Analytics R Programming Guide](http://uc-r.github.io/) 
   - [R for Data Science -- by Hadley Wickham](http://r4ds.had.co.nz/)
+  - [Cookbook for R](http://www.cookbook-r.com)
+  - [Text Mining with R](https://www.tidytextmining.com)
+  - [Advanced R](https://adv-r.hadley.nz)
+  - [Statistical Network Analysis with igraph](https://sites.fas.harvard.edu/~airoldi/pub/books/BookDraft-CsardiNepuszAiroldi2016.pdf)
