@@ -46,13 +46,13 @@ PhD and research master students from the VU, The Netherlands and abroad, engage
 
 | **Session** | **Date** | **Topic** | **Location** | **Description** |
 | --- | --- | --- | --- | --- |
-| 1 / J & M | Oct 30 / 9:00-13:15 | Theory Building in the Age of Digital Data / Intro to R | HG<a href="#note1" id="note1"><sup>[1]</sup></a> 05A91<a href="#note1" id="note1"><sup>[2]</sup></a> | We start with an introduction to computational qualitative research design and theorising relations, processes and meaning using computational methods. |
-| 2 / M | Nov 6 / 9:00-13:15 | Data Collection & Preparation / Intro to Course Datasets | HG 05A91 | This session is organized as a hands-on tutorial on data formats, data sources, as well as data collection and preparation techniques. |
-| 3 / J | Nov 13 / 9:00-13:15 | Semantic Analysis: Analyzing Meaning | HG 05A91                                               | Topic modelling and latent semantic analysis can reveal underlying patterns of meaning in large, distributed communities and organisations. We will learn the techniques and discuss their implications for theory building in this session. |
-| 4 / M | Nov 22 / 9:00-13:15 | Social Network Analysis: Analyzing Relations | HG 05A91 |Social network analysis methods allow mapping and measuring of relationships and flows between individuals or collectives. They are the cornerstone of the relational approach to sociology. |
-| 5 / P & B | Nov 29 /  9:00-13:15 | Sequence Analysis: Analyzing Processes | HG 05A91 | Human behaviour often follow certain patterns of more or less formalised routines and processes. In this session we will learn to analyse and theorise such behavioural patterns in this session. |
-| 6 / J & M | Dec 6 / 9:00-12:00 | Paper Workshop | HG 05A91 | During the workshop session the students will work on their data set of choice, under the supervision of the instructors, in order to progress towards the final paper. |
-| 7 / J & M | Dec 13 / 9:00-12:00 | Project Presentation | HG 05A91 | This is a marathon presentation session where the students will share their final paper, and will receive feedback from their peers as well as the instructors. |
+| 1 / J & M | Oct 30 / 09:00–13:15 | Theory Building in the Age of Digital Data / Intro to R | HG05A91<a href="#note1" id="note1"><sup>[1]</sup></a><a href="#note1" id="note1"><sup>[2]</sup></a> | We start with an introduction to computational qualitative research design and theorising relations, processes and meaning using computational methods. |
+| 2 / M | Nov 6 / 09:00–12:00 | Data Collection & Preparation / Intro to Course Datasets | HG05A91 | This session is organised as a hands-on tutorial on data formats, data sources, as well as data collection and preparation techniques. |
+| 3 / J | Nov 13 / 09:00–13:15 | Semantic Analysis: Analyzing Meaning | HG05A91                                              | Topic modelling and latent semantic analysis can reveal underlying patterns of meaning in large, distributed communities and organisations. We will learn the techniques and discuss their implications for theory building in this session. |
+| 4 / M | Nov 22 / 09:00–13:15 | Social Network Analysis: Analyzing Relations | HG05A91 |Social network analysis methods allow mapping and measuring of relationships and flows between individuals or collectives. They are the cornerstone of the relational approach to sociology. |
+| 5 / P & B | Nov 29 /  09:00–13:15 | Sequence Analysis: Analyzing Processes | HG05A91 | Human behaviour often follow certain patterns of more or less formalised routines and processes. In this session we will learn to analyse and theorise such behavioural patterns in this session. |
+| 6 / J & M | Dec 6 / 09:00–12:00 | Paper Workshop | HG05A91 | During the workshop session the students will work on their data set of choice, under the supervision of the instructors, in order to progress towards the final paper. |
+| 7 / J & M | Dec 13 / 09:00–12:00 | Project Presentation | HG05A91 | This is a marathon presentation session where the students will share their final paper, and will receive feedback from their peers as well as the instructors. |
 | 8 / J & M & P | Dec 20 | Paper Submission |  |  |
 
 <a id="note1" href="#note1"><sup>[1]</sup></a> Main (Hoofdgebouw) building
@@ -79,7 +79,7 @@ Use [this web address](https://calendar.google.com/calendar/ical/53ggv2r7qegc4e9
 
 The students are supposed to read the mandatory course readings and prepare for the class discussion.
 
-For the theory sessions the students will be designated as paper discussants on a voluntary basis. The paper discussant have five to ten minutes to present the gist of the paper, before launching the class discussion. About 30 minutes is allocated to each paper overall.
+For the theory sessions the students will be designated as paper discussants on a voluntary basis. The paper discussants have five to ten minutes to present the gist of the paper, before launching the class discussion. About 30 minutes is allocated to each paper overall.
 
 A hands-on tutorial will follow each theory session. The students must come prepared to the tutorials as well. They have to familiarize themselves with the software package used in the session beforehand. The tutorial exercises will be communicated to the students at least a week in advance.
 
@@ -100,7 +100,9 @@ A presentation session is scheduled on the last day of the course, so that the s
         - [Berente, N., Seidel, S., & Safadi, H. (2018). Data-Driven Computationally-Intensive Theory Development. *Information Systems Research*, Forthcoming.](https://www.researchgate.net/profile/Nicholas_Berente/publication/322069351_Data-Driven_Computationally-Intensive_Theory_Development/links/5a426dee458515f6b04fc5b2/Data-Driven-Computationally-Intensive-Theory-Development.pdf)
 - **2nd Session**
     - Background Reading
+        - [Howard T. Welser, Marc Smith, Danyel Fisher & Eric Gleave. (2008). Distilling Digital Traces: Computational Social Science Approaches to Studying the Internet. In N. G. Fielding, R. M. Lee, & G. Blank (Eds.), *The SAGE Handbook of Online Research Methods* (pp. 116–140). SAGE Publications.](http://dx.doi.org/10.4135/9780857020055)
         - [Wickham, H. (2014). Tidy Data. Journal of Statistical Software, 59(1), 1–23.](http://dx.doi.org/10.18637/jss.v059.i10)
+        - [Silge, J., & Robinson, D. (2017). The tidy text format. In *Text Mining with R: A Tidy Approach* (pp. 1–12). O’Reilly Media.](https://www.tidytextmining.com/tidytext.html)
         - [Marres, N., & Weltevrede, E. (2013). Scraping The Social? Issues in live social research. *Journal of Cultural Economy*, *6*(3), 313–335.](http://www.tandfonline.com/doi/abs/10.1080/17530350.2013.772070)
         - [Hanneman, R., & Riddle, M. (2005). Chapter 1: Social network data. In *Introduction to social network methods*. University of California, Riverside](http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html)
 - **3rd Session**
@@ -112,8 +114,8 @@ A presentation session is scheduled on the last day of the course, so that the s
         - [Kaplan, S. & Vakili, K. (2015). The double-edged sword of recombination in breakthrough innovation. *Strategic Management Journal*, *36*(10), 1435-1457.](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2294)
         - [Tirunillai, S. & Tellis, G. J. (2014). Mining Marketing Meaning from Online Chatter: Strategic Brand Analysis of Big Data Using Latent Dirichlet Allocation. *Journal of Marketing Research*, *51*(4), 463-479.](http://journals.ama.org/doi/abs/10.1509/jmr.12.0106)
     - Software
-        - [tm (R package)](https://cran.r-project.org/web/packages/tm/index.html) 
-    	- [lda (R package)](https://cran.r-project.org/web/packages/lda/index.html)
+        - [tm (R package)](https://cran.r-project.org/web/packages/tm/index.html) — [Intro Vignette](https://cran.r-project.org/web/packages/tm/vignettes/tm.pdf)
+        - [lda (R package)](https://cran.r-project.org/web/packages/lda/index.html) — [Reference Manual](https://cran.r-project.org/web/packages/lda/lda.pdf)
     - Dataset
         - TBA
 - **4th Session**
