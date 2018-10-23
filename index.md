@@ -5,14 +5,14 @@ title: {{ site.title }}
 
 ***NOTE:*** *This is a live syllabus and subject to change. Make sure you always check the live version and not the static copy or the print.*
 
-Last updated: 19-10-2018
+Last updated: 23-10-2018
 
 ## Teaching Faculty
 
 **Mahmood Shafeie Zargar** (KIN / VU - Coordinator)
 [Website](http://www.kinresearch.nl/person/mahmood-zargar/) | [Email](mailto:m.shafeiezargar@vu.nl)
 
-**Joey va Angeren** (KIN / VU)
+**Joey van Angeren** (KIN / VU)
 [Website](https://research.vu.nl/en/persons/joey-van-angeren) | [Email](mailto:joey.van.angeren@vu.nl)
 
 **Philipp Hukal** (Copenhagen Business School - Guest)
@@ -162,7 +162,7 @@ If you haven’t registered yet, but you would like to attend the seminar, you c
   - [Open Refine](http://openrefine.org/download.html)
   - [A Git Client](https://git-scm.com/downloads)
   - For the required R packages run the following line of code in R
-    - `Source("https://raw.githubusercontent.com/retrography/digital-methods/master/setup.R")`
+    - `source("https://raw.githubusercontent.com/retrography/digital-methods/master/setup.R")`
 - Additional R Learning Material
   - [UC Business Analytics R Programming Guide](http://uc-r.github.io/) 
   - [R for Data Science -- by Hadley Wickham](http://r4ds.had.co.nz/)
