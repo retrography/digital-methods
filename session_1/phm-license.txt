@@ -1,0 +1,3 @@
+The Powerhouse Museum collection metadata has been retrieved from:
+  http://www.powerhousemuseum.com/collection/database/download.php
+This basic metadata is released under a CC-BY-SA Creative Commons Attribution Share Alike license.

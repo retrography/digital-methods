@@ -1,15 +1,17 @@
 #########################################################           
 #                                                       #
+#  ABRI / KIN / VU Amsterdam                            #
+#  Digital Methods for Qualitative Research             #
+#                                                       #
 #  beer -- Loads the data from beer.stackexchange.com   #   
 #                                                       #   
 #  Author:  Shafeie Zargar, Mahmood                     #   
-#                                                       #   
 #  License:  GPLv3                                      #   
 #                                                       #   
 ######################################################### 
 
 # Install the required packages, if not done before
-# source("https://raw.githubusercontent.com/retrography/digital-methods/master/installer.R")
+# source("https://raw.githubusercontent.com/retrography/digital-methods/master/setup.R")
 
 #### Load Packages ####
 
