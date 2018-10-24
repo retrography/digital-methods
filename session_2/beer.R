@@ -21,6 +21,13 @@ library(xml2)
 library(lubridate)
 library(textclean)
 
+#### Global Variables ####
+
+# Customize the data path for your computer
+data.dir <- "~/Data/digi_methods/session_2"
+# Which stack exchange community?
+se.archive <- "beer"
+
 #### Helper Functions ####
 
 # Convert html entities, remove html tags, newlines, extra spaces
@@ -56,18 +63,19 @@ xml2df <-
 #### Preps ####
 
 # Create and set the working directory
-data.dir <- "~/Data/digi_methods/session_2/beer"
+data.dir <- paste(data.dir, se.archive, sep = "/")
 dir.create(data.dir, recursive = T)
 setwd(data.dir)
 
 # Download and extract the archive
 temp.file <- tempfile()
+download.path <- paste0("https://archive.org/download/stackexchange/", se.archive, ".stackexchange.com.7z")
 download.file(
-  "https://archive.org/download/stackexchange/beer.stackexchange.com.7z",
+  download.path,
   temp.file
 )
 archive_extract(temp.file, data.dir)
-xml.files <- dir(".")
+xml.files <- dir(path = "./", pattern = "*.xml")
 
 #### Tabulate XMLs ####
 
@@ -87,7 +95,7 @@ for (xml.file in xml.files) {
   rm(xml.data, df, df.name, xml.file)
 }
 
-rm(data.dir, xml.files, temp.file)
+rm(data.dir, xml.files, temp.file, download.path)
 
 #### Final Data Fixes ####
 
