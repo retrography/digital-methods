@@ -5,7 +5,7 @@ title: {{ site.title }}
 
 ***NOTE:*** *This is a live syllabus and subject to change. Make sure you always check the live version and not the static copy or the print.*
 
-Last updated: 23-10-2018
+Last updated: 24-10-2018
 
 ## Teaching Faculty
 
@@ -91,6 +91,7 @@ A presentation session is scheduled on the last day of the course, so that the s
     - Readings
         - [Venturini, T., & Latour, B. (2010). The Social Fabric: Digital Traces and Quali-quantitative Methods. In *Proceedings of Future En Seine*. ](http://medialab.sciences-po.fr/publications/Venturini_Latour-The_Social_Fabric.pdf)
         - [Berente, N., Seidel, S., & Safadi, H. (2018). Data-Driven Computationally-Intensive Theory Development. *Information Systems Research*, Forthcoming.](https://www.researchgate.net/profile/Nicholas_Berente/publication/322069351_Data-Driven_Computationally-Intensive_Theory_Development/links/5a426dee458515f6b04fc5b2/Data-Driven-Computationally-Intensive-Theory-Development.pdf)
+        - [Duriau, V. J., Reger, R. K., & Pfarrer, M. D. (2007). A Content Analysis of the Content Analysis Literature in Organization Studies: Research Themes, Data Sources, and Methodological Refinements. *Organizational Research Methods*, *10*(1), 5-34.](http://journals.sagepub.com/doi/abs/10.1177/1094428106289252)
         - [Emirbayer, M. (1997). Manifesto for a Relational Sociology. *The American Journal of Sociology*, *103*(2), 281–317.](http://dx.doi.org/10.1086/231209)
         - [Abbott, A. (1992). From Causes to Events. *Sociological Methods & Research*, *20*(4), 428–455.](http://journals.sagepub.com/doi/abs/10.1177/0049124192020004002)
 - **2nd Session**
