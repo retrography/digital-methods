@@ -157,14 +157,41 @@ If you haven’t registered yet, but you would like to attend the seminar, you c
 
 ## Appendix: Resources
 
-- Software (to be updated)
+- Software
   - [R](https://www.r-project.org)
   - [R Studio](https://www.rstudio.com/products/rstudio/download/#download)
   - [Gephi](https://gephi.org)
   - [Open Refine](http://openrefine.org/download.html)
   - [A Git Client](https://git-scm.com/downloads)
+  - The following R packages from CRAN:
+    - xml2
+    - devtools
+    - tidyverse
+    - jsonlite
+    - igraph
+    - tm
+    - lda
+    - data.table
+    - curl
+    - foreign
+    - statnet
+    - topicmodels
+    - TraMineR
+    - lubridate
+    - textclean
+    - intergraph
+  - The following R packages from Github:
+    - ThreadNet/ThreadNet
+    - jimhester/archive
+    - hrbrmstr/htmltidy
+
+
+
+
+
   - For the required R packages run the following line of code in R
-    - `source("https://raw.githubusercontent.com/retrography/digital-methods/master/setup.R")`
+    - ``
+
 - Additional R Learning Material
   - [UC Business Analytics R Programming Guide](http://uc-r.github.io/) 
   - [R for Data Science -- by Hadley Wickham](http://r4ds.had.co.nz/)
