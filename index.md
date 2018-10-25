@@ -50,7 +50,7 @@ PhD and research master students from the VU, The Netherlands and abroad, engage
 | 2 / M | Nov 6 / 09:00–12:00 | Data Collection & Preparation / Intro to Course Datasets | HG-5A91 | This session is organised as a hands-on tutorial on data formats, data sources, as well as data collection and preparation techniques. |
 | 3 / J | Nov 13 / 09:00–13:15 | Semantic Analysis: Analyzing Meaning | HG-5A91                                              | Topic modelling and latent semantic analysis can reveal underlying patterns of meaning in large, distributed communities and organisations. We will learn the techniques and discuss their implications for theory building in this session. |
 | 4 / M | Nov 22 / 09:00–13:15 | Social Network Analysis: Analyzing Relations | HG-5A91 |Social network analysis methods allow mapping and measuring of relationships and flows between individuals or collectives. They are the cornerstone of the relational approach to sociology. |
-| 5 / P & B | Nov 29 /  09:00–14:00 | Sequence Analysis: Analysing Processes | HG-5A91 | Human behaviour often follow certain patterns of more or less formalised routines and processes. In this session we will learn to analyse and theorise such behavioural patterns in this session.<br /><br /><u>Note:</u> The Sequence Analysis workshop will terminate at the normal time (13:15). Brian Pentland will join us over video link from 13:30 to 14:00 to present his sequence exploration tool ThreadNet. |
+| 5 / P & B | Nov 29 /  09:00–14:00 | Sequence Analysis: Analysing Processes | HG-5A91 | Human behaviour often follow certain patterns of more or less formalised routines and processes. In this session we will learn to analyse and theorise such behavioural patterns in this session.<br /><br /><u>Note:</u> The Sequence Analysis workshop will terminate at the normal time (13:15). Brian Pentland will join us over video link from 13:30 to 14:00 to present his process exploration tool ThreadNet. |
 | 6 / J & M | Dec 6 / 09:00–12:00 | Paper Workshop | HG-5A91 | During the workshop session the students will work on their data set of choice, under the supervision of the instructors, in order to progress towards the final paper. |
 | 7 / J & M | Dec 13 / 09:00–12:00 | Project Presentation | HG-5A91 | This is a marathon presentation session where the students will share their final paper, and will receive feedback from their peers as well as the instructors. |
 | 8 / J & M & P | Dec 20 | Paper Submission |  |  |
@@ -164,27 +164,8 @@ If you haven’t registered yet, but you would like to attend the seminar, you c
   - [Gephi](https://gephi.org)
   - [Open Refine](http://openrefine.org/download.html)
   - [A Git Client](https://git-scm.com/downloads)
-  - The following R packages from CRAN:
-    - xml2
-    - devtools
-    - tidyverse
-    - jsonlite
-    - igraph
-    - tm
-    - lda
-    - data.table
-    - curl
-    - foreign
-    - statnet
-    - topicmodels
-    - TraMineR
-    - lubridate
-    - textclean
-    - intergraph
-  - The following R packages from Github:
-    - ThreadNet/ThreadNet
-    - jimhester/archive
-    - hrbrmstr/htmltidy
+  - The following R packages from CRAN: xml2, devtools, tidyverse, jsonlite, igraph, tm, lda, data.table, curl, foreign, statnet, topicmodels, TraMineR, lubridate, textclean, intergraph
+  - The following R packages from Github: ThreadNet/ThreadNet, jimhester/archive, hrbrmstr/htmltidy
 - Additional R Learning Material
   - [UC Business Analytics R Programming Guide](http://uc-r.github.io/) 
   - [R for Data Science -- by Hadley Wickham](http://r4ds.had.co.nz/)
