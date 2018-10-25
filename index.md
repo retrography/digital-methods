@@ -151,7 +151,7 @@ The assumption is that the students are initiated to statistics for research, in
 
 The seminar will count as 6 ECTS under European credit transfer and accumulation system. If required, a certificate can be provided upon the completion of the course.
 
-## Registration
+## Registration (Closed)
 
 If you haven’t registered yet, but you would like to attend the seminar, you can use [this form](http://abri.vu.nl/en/doctoral-education/phd-programme/course_registration/index.aspx) to enroll. For additional information on the administrative formalities, contact [graduateschool.abri@vu.nl](mailto:graduateschool.abri@vu.nl). 
 

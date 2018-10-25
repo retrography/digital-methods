@@ -158,9 +158,10 @@ p img {
 pre, code {
   color: #222;
   //background-color: #fff;
+  white-space: pre-wrap;
 
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  font-size: 12px;
+  font-size: 11px;
 
   border-radius: 2px;
   -moz-border-radius: 2px;
