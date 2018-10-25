@@ -1,4 +1,4 @@
-# Software Installation for the Course
+# Software Installation Instructions
 
 ## Windows
 If you are on Windows, you will have to install most of the software manuall. Alternatively, you can use a package manager such as [*Chocolatey*](https://chocolatey.org/) to install some of the tools. In order to install the required R packages hassle-free, run the following line of code in R:
