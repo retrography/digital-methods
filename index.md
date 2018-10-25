@@ -5,7 +5,7 @@ title: {{ site.title }}
 
 ***NOTE:*** *This is a live syllabus and subject to change. Make sure you always check the live version and not the static copy or the print.*
 
-Last updated: 24-10-2018
+Last updated: {{ site.time }}
 
 ## Teaching Faculty
 
@@ -18,7 +18,7 @@ Last updated: 24-10-2018
 **Philipp Hukal** (Copenhagen Business School - Guest)
 [Website](https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/phdigi/) | [Email](mailto:ph.digi@cbs.dk)
 
-**Brian Pentland** (Michigan State - Guest/Unconfirmed)
+**Brian Pentland** (Michigan State - Guest)
 [Website](http://broad.msu.edu/facultystaff/pentland/) | [Email](mailto:pentland@broad.msu.edu)
 
 ## Course Description
@@ -46,13 +46,13 @@ PhD and research master students from the VU, The Netherlands and abroad, engage
 
 | **Session** | **Date** | **Topic** | **Location** | **Description** |
 | --- | --- | --- | --- | --- |
-| 1 / J & M | Oct 30 / 09:00–13:15 | Theory Building in the Age of Digital Data / Intro to R | HG05A91<a href="#note1" id="note1"><sup>[1]</sup></a><a href="#note1" id="note1"><sup>[2]</sup></a> | We start with an introduction to computational qualitative research design and theorising relations, processes and meaning using computational methods. |
-| 2 / M | Nov 6 / 09:00–12:00 | Data Collection & Preparation / Intro to Course Datasets | HG05A91 | This session is organised as a hands-on tutorial on data formats, data sources, as well as data collection and preparation techniques. |
-| 3 / J | Nov 13 / 09:00–13:15 | Semantic Analysis: Analyzing Meaning | HG05A91                                              | Topic modelling and latent semantic analysis can reveal underlying patterns of meaning in large, distributed communities and organisations. We will learn the techniques and discuss their implications for theory building in this session. |
-| 4 / M | Nov 22 / 09:00–13:15 | Social Network Analysis: Analyzing Relations | HG05A91 |Social network analysis methods allow mapping and measuring of relationships and flows between individuals or collectives. They are the cornerstone of the relational approach to sociology. |
-| 5 / P & B? | Nov 29 /  09:00–13:15 | Sequence Analysis: Analyzing Processes | HG05A91 | Human behaviour often follow certain patterns of more or less formalised routines and processes. In this session we will learn to analyse and theorise such behavioural patterns in this session. |
-| 6 / J & M | Dec 6 / 09:00–12:00 | Paper Workshop | HG05A91 | During the workshop session the students will work on their data set of choice, under the supervision of the instructors, in order to progress towards the final paper. |
-| 7 / J & M | Dec 13 / 09:00–12:00 | Project Presentation | HG05A91 | This is a marathon presentation session where the students will share their final paper, and will receive feedback from their peers as well as the instructors. |
+| 1 / J & M | Oct 30 / 09:00–13:15 | Theory Building in the Age of Digital Data / Intro to R | HG-5A91 <a href="#note1" id="note1"><sup>[1]</sup></a><a href="#note1" id="note1"><sup>[2]</sup></a> | We start with an introduction to computational qualitative research design and theorising relations, processes and meaning using computational methods. |
+| 2 / M | Nov 6 / 09:00–12:00 | Data Collection & Preparation / Intro to Course Datasets | HG-5A91 | This session is organised as a hands-on tutorial on data formats, data sources, as well as data collection and preparation techniques. |
+| 3 / J | Nov 13 / 09:00–13:15 | Semantic Analysis: Analyzing Meaning | HG-5A91                                              | Topic modelling and latent semantic analysis can reveal underlying patterns of meaning in large, distributed communities and organisations. We will learn the techniques and discuss their implications for theory building in this session. |
+| 4 / M | Nov 22 / 09:00–13:15 | Social Network Analysis: Analyzing Relations | HG-5A91 |Social network analysis methods allow mapping and measuring of relationships and flows between individuals or collectives. They are the cornerstone of the relational approach to sociology. |
+| 5 / P & B | Nov 29 /  09:00–14:00 | Sequence Analysis: Analysing Processes | HG-5A91 | Human behaviour often follow certain patterns of more or less formalised routines and processes. In this session we will learn to analyse and theorise such behavioural patterns in this session.<br />Note: The Sequence Analysis workshop will terminate at the normal time (13:15). Brian Pentland will join us over video link from 13:30 to 14:00 to present his sequence exploration tool ThreadNet. |
+| 6 / J & M | Dec 6 / 09:00–12:00 | Paper Workshop | HG-5A91 | During the workshop session the students will work on their data set of choice, under the supervision of the instructors, in order to progress towards the final paper. |
+| 7 / J & M | Dec 13 / 09:00–12:00 | Project Presentation | HG-5A91 | This is a marathon presentation session where the students will share their final paper, and will receive feedback from their peers as well as the instructors. |
 | 8 / J & M & P | Dec 20 | Paper Submission |  |  |
 
 <a id="note1" href="#note1"><sup>[1]</sup></a> Main (Hoofdgebouw) building
@@ -133,6 +133,7 @@ A presentation session is scheduled on the last day of the course, so that the s
         - [Pentland, B. T., & Feldman, M. S. (2007). Narrative networks: Patterns of technology and organization. *Organization science*, *18*(5), 781-795.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0283)
     - Software
         - [TraMineR (R Package)](http://traminer.unige.ch/) — [Intro Vignette](https://cran.r-project.org/web/packages/TraMineR/vignettes/TraMineR-state-sequence.pdf) 
+        - [ThreadNet](http://routines.broad.msu.edu/ThreadNet/)
     - Dataset
         - TBA
 
