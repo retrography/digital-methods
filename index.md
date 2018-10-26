@@ -23,7 +23,7 @@ Last updated: {{ site.time }}
 
 ## Course Description
 
-The recent advances in the availability of digital trace data as well as the corresponding data analysis methods have opened up new venues for social science research. These trends allow new types of analysis and make new ways of theorizing possible. This course intends to initiate the participants with a catalogue of contemporary tools and techniques necessary to navigate and analyze the emerging data landscape. In particular, it aims to provide research students from diverse backgrounds with the basic skills and methodological insights to take advantage of digital trace data and computational tools. This course is agnostic to research paradigms and leaves the door open to participants from qualitative and quantitative backgrounds. The course is aimed towards research students from fields related to business administration and organization studies who are either interested in discovering different methods or aiming to enrich their methods toolbox by engaging hands-on with digital trace data. Some basic familiarity with R and a knack for hack are mandatory.
+The recent advances in the availability of digital trace data as well as the corresponding data analysis methods have opened up new venues for social science research. These trends allow new types of analysis and make new ways of theorising possible. This course intends to initiate the participants with a catalogue of contemporary tools and techniques necessary to navigate and analyse the emerging data landscape. In particular, it aims to provide research students from diverse backgrounds with the basic skills and methodological insights to take advantage of digital trace data and computational tools. This course is agnostic to research paradigms and leaves the door open to participants from qualitative and quantitative backgrounds. The course is aimed towards research students from fields related to business administration and organisation studies who are either interested in discovering different methods or aiming to enrich their methods toolbox by engaging hands-on with digital trace data. Some basic familiarity with R and a knack for hack are mandatory.
 
 ## Learning Activities & Objectives
 
@@ -31,33 +31,35 @@ During the course the students will:
 
 - Immerse into new ways of building on digital traces of social interactions, structures and processes for explorative and inductive analysis
 - Obtain an overview of available digital trace data sources and the tools to harvest them
-- Learn about various methodologies for analyzing the digital trace data, the type of research question that leverages those methods, and the research design and strategies that match the research questions with the corresponding data
+- Learn about various methodologies for analysing the digital trace data, the type of research question that leverages those methods, and the research design and strategies that match the research questions with the corresponding data
 - Initiate and develop their own data-driven research project under the supervision of the instructors
-- Understand the data sources and methods for making sense of an increasingly digitized world
+- Understand the data sources and methods for making sense of an increasingly digitised world
 - Gain operational knowledge of a handful of important analytics and digital research methods
 - Focus on use of computational analytic methods for exploratory and qualitative research
-- Understand how digital methods affect research design and theory building in organization studies
+- Understand how digital methods affect research design and theory building in organisation studies
 
 ## Target Audience
 
-PhD and research master students from the VU, The Netherlands and abroad, engaged in research projects broadly related to business administration or organization studies. We expect a maximum of 25 participants.
+PhD and research master students from the VU, The Netherlands and abroad, engaged in research projects broadly related to business administration or organisation studies. We expect a maximum of 25 participants.
 
 ## Course Outline
 
 | **Session** | **Date** | **Topic** | **Location** | **Description** |
 | --- | --- | --- | --- | --- |
-| 1 / J & M | Tuesday Oct 30 / 12:00–16:15 | Theory Building in the Age of Digital Data / Intro to R | HG-5A91 <a href="#note1" id="note1"><sup>[1]</sup></a><a href="#note1" id="note1"><sup>[2]</sup></a> | We start with an introduction to computational qualitative research design and theorising relations, processes and meaning using computational methods. |
-| 2 / M | Tuesday Nov 6 / 09:00–13:15 | Data Collection & Preparation / Intro to Course Datasets | HG-5A91 | This session is organised as a hands-on tutorial on data formats, data sources, as well as data collection and preparation techniques. |
-| 3 / J | Tuesday Nov 13 / 09:00–13:15 | Semantic Analysis: Analysing Meaning | HG-8A97                                              | Topic modelling and latent semantic analysis can reveal underlying patterns of meaning in large, distributed communities and organisations. We will learn the techniques and discuss their implications for theory building in this session. |
-| 4 / M | Thursday Nov 22 / 09:00–13:15 | Social Network Analysis: Analysing Relations | HG-5A91 |Social network analysis methods allow mapping and measuring of relationships and flows between individuals or collectives. They are the cornerstone of the relational approach to sociology. |
-| 5 / P & B | Thursday Nov 29 /  09:00–14:00 | Sequence Analysis: Analysing Processes | HG-5A91 | Human behaviour often follow certain patterns of more or less formalised routines and processes. In this session we will learn to analyse and theorise such behavioural patterns in this session.<br /><br /><u>Note:</u> The Sequence Analysis workshop will terminate at the normal time (13:15). Brian Pentland will join us over video link from 13:30 to 14:00 to present his process exploration tool ThreadNet. |
-| 6 / J & M | Thursday Dec 6 / 09:00–12:00 | Paper Workshop | HG-5A91 | During the workshop session the students will work on their data set of choice, under the supervision of the instructors, in order to progress towards the final paper. |
-| 7 / J & M | Thursday Dec 13 / 09:00–12:00 | Project Presentation | HG-5A91 | This is a marathon presentation session where the students will share their final paper, and will receive feedback from their peers as well as the instructors. |
+| 1 / J & M | Tuesday Oct 30 / 12:00–16:15 | Theory Building in the Age of Digital Data / Intro to R | OZW-6A12<a href="#note1" id="note1"><sup>[1]</sup></a> | We start with an introduction to computational qualitative research design and theorising relations, processes and meaning using computational methods. |
+| 2 / M | Tuesday Nov 6 / 09:00–13:15 | Data Collection & Preparation / Intro to Course Datasets | HG-0G08<a href="#note2" id="note2"><sup>[2]</sup></a> | This session is organised as a hands-on tutorial on data formats, data sources, as well as data collection and preparation techniques. |
+| 3 / J | Tuesday Nov 13 / 09:00–13:15 | Semantic Analysis: Analysing Meaning | HG-8A97<a href="#note2" id="note2"><sup>[2]</sup></a><a href="#note3" id="note3"><sup>[3]</sup></a> | Topic modelling and latent semantic analysis can reveal underlying patterns of meaning in large, distributed communities and organisations. We will learn the techniques and discuss their implications for theory building in this session. |
+| 4 / M | Thursday Nov 22 / 09:00–13:15 | Social Network Analysis: Analysing Relations | HG-5A91<a href="#note2" id="note2"><sup>[2]</sup></a><a href="#note3" id="note3"><sup>[3]</sup></a> |Social network analysis methods allow mapping and measuring of relationships and flows between individuals or collectives. They are the cornerstone of the relational approach to sociology. |
+| 5 / P & B | Thursday Nov 29 /  09:00–14:00 | Sequence Analysis: Analysing Processes | HG-5A91<a href="#note2" id="note2"><sup>[2]</sup></a><a href="#note3" id="note3"><sup>[3]</sup></a> | Human behaviour often follow certain patterns of more or less formalised routines and processes. In this session we will learn to analyse and theorise such behavioural patterns in this session.<br /><br /><u>Note:</u> The Sequence Analysis workshop will terminate at the normal time (13:15). Brian Pentland will join us over video link from 13:30 to 14:00 to present his process exploration tool ThreadNet. |
+| 6 / J & M | Thursday Dec 6 / 09:00–12:00 | Paper Workshop | HG-5A91<a href="#note2" id="note2"><sup>[2]</sup></a><a href="#note3" id="note3"><sup>[3]</sup></a> | During the workshop session the students will work on their data set of choice, under the supervision of the instructors, in order to progress towards the final paper. |
+| 7 / J & M | Thursday Dec 13 / 09:00–12:00 | Project Presentation | HG-5A91<a href="#note2" id="note2"><sup>[2]</sup></a><a href="#note3" id="note3"><sup>[3]</sup></a> | This is a marathon presentation session where the students will share their final paper, and will receive feedback from their peers as well as the instructors. |
 | 8 / J & M & P | Tursday Dec 20 | Paper Submission |  |  |
 
-<a id="note1" href="#note1"><sup>[1]</sup></a> Main (Hoofdgebouw) building
+<a id="note1" href="#note1"><sup>[1]</sup></a> Education Institute Care and Welfare
 
-<a id="note2" href="#note2"><sup>[2]</sup></a> The classroom is within the staff-only perimeter of the building. You can use the inter-phone on the ground floor, or the buzzers on the 5th floor to call the course coordinator, once you are here. Alternatively, drop him an email in advance and set an appointment.
+<a id="note2" href="#note2"><sup>[2]</sup></a> Main (Hoofdgebouw) building
+
+<a id="note3" href="#note3"><sup>[3]</sup></a> The classroom is within the staff-only perimeter of the building. You can use the inter-phone on the ground floor, or the buzzers on the 5th floor to call the course coordinator, once you are here. Alternatively, drop him an email in advance and set an appointment.
 
 [View Map](assets/images/map.jpg)
 
@@ -80,7 +82,7 @@ The students are supposed to read the mandatory course readings and prepare for 
 
 For the theory sessions the students will be designated as paper discussants on a voluntary basis. The paper discussants have five to ten minutes to present the gist of the paper, before launching the class discussion. About 30 minutes is allocated to each paper overall.
 
-A hands-on tutorial will follow each theory session. The students must come prepared to the tutorials as well. They have to familiarize themselves with the software package used in the session beforehand. The tutorial exercises will be communicated to the students at least a week in advance.
+A hands-on tutorial will follow each theory session. The students must come prepared to the tutorials as well. They have to familiarise themselves with the software package used in the session beforehand. The tutorial exercises will be communicated to the students at least a week in advance.
 
 The students will have to pick one of the presented methods to implement in their term paper. A short paper proposal (2-3 pages) and a usable dataset are due on the day of the Paper Workshop session.
 
@@ -145,7 +147,7 @@ A presentation session is scheduled on the last day of the course, so that the s
 
 ## Pre-requisites
 
-The assumption is that the students are initiated to statistics for research, including basic use of the R programming language. It is crucial that students are familiar with computer basics (e.g. know how to navigate their way around the Internet) and are proficient in use of computers for handling data files (e.g. using Excel, SPSS, SQL or other software). The course will not require coding as a requisite condition for the deliverables, although the students are encouraged to spend some time before and during the course to improve their R skills, so that they make the most out of it. The students who lack a basic understanding of the common descriptive and inferential statistics methods may want to take a preliminary statistics course before taking this course. The students who have no experience with R are required to do the following tutorials and attend a short R workshop at the beginning of the term: [Beginner's Guide to R (Computer World)](https://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html) and [Introduction to R (DataCamp)](https://www.datacamp.com/courses/free-introduction-to-r)
+The assumption is that the students are initiated to statistics for research, including basic use of the R programming language. It is crucial that students are familiar with computer basics (e.g. know how to navigate their way around the Internet) and are proficient in use of computers for handling data files (e.g. using Excel, SPSS, SQL or other software). The course will not require coding as a requisite condition for the deliverables, although the students are encouraged to spend some time before and during the course to improve their R skills, so that they make the most out of it. The students who lack a basic understanding of the common descriptive and inferential statistics methods may want to take a preliminary statistics course before taking this course. The students who have no experience with R are required to do the following tutorials and attend a short R workshop at the beginning of the term: [Beginner's Guide to R (Computer World)](https://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html) and [Introduction to R (DataCamp)](https://www.datacamp.com/courses/free-introduction-to-r).
 
 ## Credits
 
