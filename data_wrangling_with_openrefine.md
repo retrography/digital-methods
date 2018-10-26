@@ -19,7 +19,7 @@ OpenRefine (formerly Google Refine) provides a simple and effective interactive 
 
  The main objective is to prepare the inventory data from the [Powerhouse museum](http://www.powerhousemuseum.com/) for further analysis. Powerhouse museum dataset consists of detailed metadata on all the collection objects, including title, description, several categories the item belongs to, provenance information, and a persistent link to the object on the museum website. 
 
-### 1. Obtaining and importing the data[](https://programminghistorian.org/lessons/cleaning-data-with-openrefine#getting-started-installing-openrefine-and-importing-data)
+### 1. Obtaining and importing the data
 
 Download the inventory data of the Powerhouse museum from [here](https://canvas.vu.nl/courses/31025/files/466427/download?verifier=Uo0qX1LA51jiqtmuAUU4jiXV6NmFjytAn55SmOws&wrap=1). The file is in TSV or tab-separated format. Create a new project in OpenRefine and import the downloaded file.
 
@@ -27,7 +27,7 @@ Make sure to unselect the ‘Quotation marks are used to enclose cells containin
 
 ### 2. Getting to know your data
 
-OpenRefine supports faceted search views, which are a great first step to explore your data by making visible the value distributions and facilitating the search for aberrant values. You could consider a [facet (Links to an external site.)Links to an external site.](http://en.wikipedia.org/wiki/Faceted_search) as a lens through which you view a specific subset of the data, based on a criterion of your choice.
+OpenRefine supports faceted search views, which are a great first step to explore your data by making visible the value distributions and facilitating the search for aberrant values. You could consider a [facet](http://en.wikipedia.org/wiki/Faceted_search) as a lens through which you view a specific subset of the data, based on a criterion of your choice.
 
 In order to create a facet, click the triangle (![triangle.png](https://canvas.vu.nl/courses/31025/files/466631/preview?verifier=MhIC891w7zGN5ek1QOrTblSuZeoWXtUZ9NGC9gs2)) in front of one of the column names and select Facet from the drop down menu. There are different types of facet to choose from.
 
