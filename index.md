@@ -1,5 +1,5 @@
 ---
-layout: default
+	layout: default
 title: {{ site.title }}
 ---
 
@@ -90,9 +90,8 @@ A presentation session is scheduled on the last day of the course, so that the s
 
 - **1st Session**
     - Readings
-        - [Venturini, T., & Latour, B. (2010). The Social Fabric: Digital Traces and Quali-quantitative Methods. In *Proceedings of Future En Seine*. ](http://medialab.sciences-po.fr/publications/Venturini_Latour-The_Social_Fabric.pdf)
         - [Berente, N., Seidel, S., & Safadi, H. (2018). Data-Driven Computationally-Intensive Theory Development. *Information Systems Research*, Forthcoming.](https://www.researchgate.net/profile/Nicholas_Berente/publication/322069351_Data-Driven_Computationally-Intensive_Theory_Development/links/5a426dee458515f6b04fc5b2/Data-Driven-Computationally-Intensive-Theory-Development.pdf)
-        - [Duriau, V. J., Reger, R. K., & Pfarrer, M. D. (2007). A Content Analysis of the Content Analysis Literature in Organization Studies: Research Themes, Data Sources, and Methodological Refinements. *Organizational Research Methods*, *10*(1), 5-34.](http://journals.sagepub.com/doi/abs/10.1177/1094428106289252)
+        - [Duriau, V. J., Reger, R. K., & Pfarrer, M. D. (2007). A Content Analysis of the Content Analysis Literature in Organization Studies: Research Themes, Data Sources, and Methodological Refinements. *Organizational Research Methods*, *10*(1), 5–34.](http://journals.sagepub.com/doi/abs/10.1177/1094428106289252) (only p. 5–8)
         - [Emirbayer, M. (1997). Manifesto for a Relational Sociology. *The American Journal of Sociology*, *103*(2), 281–317.](http://dx.doi.org/10.1086/231209)
         - [Abbott, A. (1992). From Causes to Events. *Sociological Methods & Research*, *20*(4), 428–455.](http://journals.sagepub.com/doi/abs/10.1177/0049124192020004002)
 - **2nd Session**
@@ -103,12 +102,12 @@ A presentation session is scheduled on the last day of the course, so that the s
         - [Hanneman, R., & Riddle, M. (2005). Chapter 1: Social network data. In *Introduction to social network methods*. University of California, Riverside](http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html)
 - **3rd Session**
     - Background Readings
-        - [Blei, D. M. (2012). Probabilistic Topic Models. *Communications of the ACM*, *55*(4), 77-84.](https://dl.acm.org/citation.cfm?id=2133826)
-        - [Kobayashi, V. B., Mol, S. T., Berkers, H. A., Kismihok, G., & Den Hartog (2018). Text Mining in Organizational Research. *Organizational Research Methods*, *21*(3), 733-765.](http://journals.sagepub.com/doi/abs/10.1177/1094428117722619)
+        - [Blei, D. M. (2012). Probabilistic Topic Models. *Communications of the ACM*, *55*(4), 77–84.](https://dl.acm.org/citation.cfm?id=2133826)
+        - [Kobayashi, V. B., Mol, S. T., Berkers, H. A., Kismihok, G., & Den Hartog (2018). Text Mining in Organizational Research. *Organizational Research Methods*, *21*(3), 733–765.](http://journals.sagepub.com/doi/abs/10.1177/1094428117722619)
     - Session Papers
-        - [Croidieu, G. & Kim, P. H. (2018). Labor of Love: Amateurs and Lay-expertise Legitimation in the Early U.S. Radio Field. *Administrative Science Quarterly*, *63*(1), 1-42.](http://journals.sagepub.com/doi/abs/10.1177/0001839216686531)
-        - [Kaplan, S. & Vakili, K. (2015). The double-edged sword of recombination in breakthrough innovation. *Strategic Management Journal*, *36*(10), 1435-1457.](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2294)
-        - [Tirunillai, S. & Tellis, G. J. (2014). Mining Marketing Meaning from Online Chatter: Strategic Brand Analysis of Big Data Using Latent Dirichlet Allocation. *Journal of Marketing Research*, *51*(4), 463-479.](http://journals.ama.org/doi/abs/10.1509/jmr.12.0106)
+        - [Croidieu, G. & Kim, P. H. (2018). Labor of Love: Amateurs and Lay-expertise Legitimation in the Early U.S. Radio Field. *Administrative Science Quarterly*, *63*(1), 1–42.](http://journals.sagepub.com/doi/abs/10.1177/0001839216686531)
+        - [Kaplan, S. & Vakili, K. (2015). The double-edged sword of recombination in breakthrough innovation. *Strategic Management Journal*, *36*(10), 1435–1457.](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2294)
+        - [Tirunillai, S. & Tellis, G. J. (2014). Mining Marketing Meaning from Online Chatter: Strategic Brand Analysis of Big Data Using Latent Dirichlet Allocation. *Journal of Marketing Research*, *51*(4), 463–479.](http://journals.ama.org/doi/abs/10.1509/jmr.12.0106)
     - Software
         - [tm (R package)](https://cran.r-project.org/web/packages/tm/index.html) — [Intro Vignette](https://cran.r-project.org/web/packages/tm/vignettes/tm.pdf)
         - [lda (R package)](https://cran.r-project.org/web/packages/lda/index.html) — [Reference Manual](https://cran.r-project.org/web/packages/lda/lda.pdf)
@@ -127,11 +126,11 @@ A presentation session is scheduled on the last day of the course, so that the s
         - TBA
 - **5th Session**
     - Background Reading
-        - [Abbott, A. (1990). A primer on sequence methods. *Organization science*, *1*(4), 375-392.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1.4.375)  
+        - [Abbott, A. (1990). A primer on sequence methods. *Organization Science*, *1*(4), 375–392.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1.4.375)  
     - Session Papers
-        - [Lindberg, A., Berente, N., Gaskin, J., & Lyytinen, K. (2016). Coordinating Interdependencies in Online Communities: A Study of an Open Source Software Project. Information Systems Research, 27(4), 751–772.](https://pubsonline.informs.org/doi/10.1287/isre.2016.0673)
-        - [Gaskin, J., Berente, N., Lyytinen, K., & Yoo, Y. (2014). Toward Generalizable Sociomaterial Inquiry: A Computational Approach for Zooming In and Out of Sociomaterial Routines](https://misq.org/toward-generalizable-sociomaterial-inquiry-a-computational-approach-for-zooming-in-and-out-of-sociomaterial-routines.html)
-        - [Pentland, B. T., & Feldman, M. S. (2007). Narrative networks: Patterns of technology and organization. *Organization science*, *18*(5), 781-795.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0283)
+        - [Lindberg, A., Berente, N., Gaskin, J., & Lyytinen, K. (2016). Coordinating Interdependencies in Online Communities: A Study of an Open Source Software Project. *Information Systems Research, 27*(4), 751–772.](https://pubsonline.informs.org/doi/10.1287/isre.2016.0673)
+        - [Gaskin, J., Berente, N., Lyytinen, K., & Yoo, Y. (2014). Toward Generalizable Sociomaterial Inquiry: A Computational Approach for Zooming In and Out of Sociomaterial Routines. *MIS Quarterly, 38*(3), 849–871.](https://misq.org/toward-generalizable-sociomaterial-inquiry-a-computational-approach-for-zooming-in-and-out-of-sociomaterial-routines.html)
+        - [Pentland, B. T., & Feldman, M. S. (2007). Narrative networks: Patterns of technology and organization. *Organization Science*, *18*(5), 781–795.](http://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0283)
     - Software
         - [TraMineR (R Package)](http://traminer.unige.ch/) — [Intro Vignette](https://cran.r-project.org/web/packages/TraMineR/vignettes/TraMineR-state-sequence.pdf) 
         - [ThreadNet](http://routines.broad.msu.edu/ThreadNet/)
