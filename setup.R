@@ -26,7 +26,8 @@ packs <- c(
   "TraMineR",
   "lubridate",
   "textclean",
-  "intergraph"
+  "intergraph",
+  "SnowballC"
 )
 
 for (pack in packs) {
