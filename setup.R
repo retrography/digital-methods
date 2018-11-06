@@ -28,7 +28,8 @@ packs <- c(
   "lubridate",
   "textclean",
   "intergraph",
-  "SnowballC"
+  "SnowballC",
+  "curl"
 )
 
 for (pack in packs) {
