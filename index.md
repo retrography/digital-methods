@@ -43,7 +43,7 @@ During the course the students will:
 
 PhD and research master students from the VU, The Netherlands and abroad, engaged in research projects broadly related to business administration or organisation studies. We expect a maximum of 25 participants.
 
-## Course Outline<a href="#note2"><sup>[1]</sup></a>
+## Course Outline<a href="#note1"><sup>[1]</sup></a>
 
 | **Session** | **Date** | **Topic** | **Location** | **Description** |
 | --- | --- | --- | --- | --- |
@@ -51,8 +51,8 @@ PhD and research master students from the VU, The Netherlands and abroad, engage
 | 2 / M | Thursday Nov 7 / 13:00–18:00 | Data Collection & Preparation / Intro to Course Datasets | HG-5A91<a href="#note2"><sup>[2]</sup></a><a href="#note3"><sup>[3]</sup></a> | This session is organised as a hands-on tutorial on data formats, data sources, as well as data collection and preparation techniques. |
 | 3 / M | Thursday Nov 14 / 13:00–18:00 | Social Network Analysis: Analysing Relations | HG-5A91<a href="#note2"><sup>[2]</sup></a><a href="#note3"><sup>[3]</sup></a> | Social network analysis methods allow mapping and measuring of relationships and flows between individuals or collectives. They are the cornerstone of the relational approach to sociology. |
 | 4 / J | Thursday Nov 21 / 13:00–18:00 | Semantic Analysis: Analysing Meaning | HG-5A91<a href="#note2"><sup>[2]</sup></a><a href="#note3"><sup>[3]</sup></a> |Topic modelling and latent semantic analysis can reveal underlying patterns of meaning in large, distributed communities and organisations. We will learn the techniques and discuss their implications for theory building in this session. |
-| 5 / J & M | Thursday Nov 28 / 13:00–18:00 | Detecting Semantic & Syntactic Similarity in Text | HG-5A91<a href="#note2"><sup>[2]</sup></a><a href="#note3"><sup>[3]</sup></a> |  |
-| 6 / P & B | Thursday Dec 5 / 13:00–18:00 | Sequence Analysis: Analysing Processes | HG-5A91<a href="#note2"><sup>[2]</sup></a><a href="#note3"><sup>[3]</sup></a> | Human behaviour often follow certain patterns of more or less formalised routines and processes. In this session we will learn to analyse and theorise such behavioural patterns in this session. |
+| 5 / J & M | Thursday Nov 28 / 13:00–18:00 | Detecting Semantic & Syntactic Similarity in Text | HG-5A91<a href="#note2"><sup>[2]</sup></a><a href="#note3"><sup>[3]</sup></a> | To be completed: We will use semantic as well as syntactic similarity methods to detect similar text content across text corpora. |
+| 6 / P & B | Thursday Dec 5 / 13:00–18:15 | Sequence Analysis: Analysing Processes | HG-5A91<a href="#note2"><sup>[2]</sup></a><a href="#note3"><sup>[3]</sup></a> | Human behaviour often follow certain patterns of more or less formalised routines and processes. In this session we will learn to analyse and theorise such behavioural patterns in this session. |
 | 7 | Thursday Dec 12 / 13:00–18:00 | Personal Appointments | - | During the personal appointments the students will get the chance to seek the help of the instructors on their data wrangling and analysis process, in order to progress towards the final paper. |
 | 8 / J & M & P | Thursday Dec 19 / 13:00–18:00 | Project Presentation                                     | HG-5A91<a href="#note2"><sup>[2]</sup></a><a href="#note3"><sup>[3]</sup></a> | This is a marathon presentation session where the students will share their final paper, and will receive feedback from their peers as well as the instructors. |
 
@@ -73,7 +73,7 @@ All sessions, except Session 6, are organized as follows:
 - 15:30–16:00 Break
 - 16:00–18:00 Hands-on workshop
 
-For Session 6:
+For Session 6 (Semantic Analysis):
 
 - 13:00–14:00 Lecture (Method & theory building using the method)
 - 14:00–15:30 Paper discussion (Approximately three papers per session)
@@ -89,7 +89,7 @@ For the theory sessions the students will be designated as paper discussants on 
 
 A hands-on tutorial will follow each theory session. The students must come prepared to the tutorials as well. They have to familiarise themselves with the software package used in the session beforehand. The tutorial exercises will be communicated to the students at least a week in advance.
 
-The students will have to pick one of the presented methods to implement in their term paper. A short paper proposal (2-3 pages) and a usable dataset are due before the personal appointment.
+The students will have to pick one of the presented methods to implement in their term paper. A short paper proposal (2-3 pages) and a usable dataset are due before the personal appointment (Dec. 12).
 
 A presentation session is scheduled on the last day of the course, so that the students receive constructive feedback from their colleagues and the instructors.
 
@@ -177,7 +177,7 @@ If you haven’t registered yet, but you would like to attend the seminar, you c
   - [Stats with R](https://mgimond.github.io/Stats-in-R/index.html)
   - [Exploratory Data Analysis in R](https://mgimond.github.io/ES218/index.html)
   - [UC Business Analytics R Programming Guide](http://uc-r.github.io/) 
-  - [R for Data Science -- by Hadley Wickham](http://r4ds.had.co.nz/)
+  - [R for Data Science](http://r4ds.had.co.nz/)
   - [Cookbook for R](http://www.cookbook-r.com)
   - [Text Mining with R](https://www.tidytextmining.com)
   - [Advanced R](https://adv-r.hadley.nz)
