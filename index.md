@@ -64,7 +64,7 @@ PhD and research master students from the VU, The Netherlands and abroad, engage
 
 [View Map](assets/images/map.jpg)
 
-## Class Schedule
+## Class Schedule (To be revised)
 
 All sessions, except Session 6, are organized as follows:
 
