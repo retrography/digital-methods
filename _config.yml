@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Digital Methods for Qualitative Research
+title: Digital Methods for Exploratory Research
 description: Companion website for the ABRI doctoral seminar
 baseurl: "/digital-methods" # the subpath of your site, e.g. /blog
 url: "http://retrography.github.io" # the base hostname & protocol for your site
