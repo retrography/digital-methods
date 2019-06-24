@@ -29,7 +29,7 @@ The recent advances in the availability of digital trace data as well as the cor
 
 During the course the students will:
 
-- Immerse into new ways of building on digital traces of social interactions, structures and processes for explorative and inductive analysis
+- Immerse into new ways of building on digital traces of social interactions, structures and processes for exploratory and inductive analysis
 - Obtain an overview of available digital trace data sources and the tools to harvest them
 - Learn about various methodologies for analysing the digital trace data, the type of research question that leverages those methods, and the research design and strategies that match the research questions with the corresponding data
 - Initiate and develop their own data-driven research project under the supervision of the instructors
@@ -52,7 +52,7 @@ PhD and research master students from the VU, The Netherlands and abroad, engage
 | 3 / M | Thursday Nov 14 / 13:00–18:00 | Social Network Analysis: Analysing Relations | HG-5A91<a href="#note2"><sup>[2]</sup></a><a href="#note3"><sup>[3]</sup></a> | Social network analysis methods allow mapping and measuring of relationships and flows between individuals or collectives. They are the cornerstone of the relational approach to sociology. |
 | 4 / P & B | Thursday Nov 21 / 13:00–18:15 | Sequence Analysis: Analysing Processes | HG-5A91<a href="#note2"><sup>[2]</sup></a><a href="#note3"><sup>[3]</sup></a> |Human behaviour often follow certain patterns of more or less formalised routines and processes. In this session we will learn to analyse and theorise such behavioural patterns in this session. |
 | 5 / J | Thursday Nov 28 / 13:00–18:00 | Semantic Analysis: Analysing Meaning | HG-5A91<a href="#note2"><sup>[2]</sup></a><a href="#note3"><sup>[3]</sup></a> | Topic modelling and latent semantic analysis can reveal underlying patterns of meaning in large, distributed communities and organisations. We will learn the techniques and discuss their implications for theory building in this session. |
-| 6 / J&M | Thursday Dec 5 / 13:00–18:00 | Detecting Semantic & Syntactic Similarity in Text | HG-5A91<a href="#note2"><sup>[2]</sup></a><a href="#note3"><sup>[3]</sup></a> | To be completed: We will use semantic as well as syntactic similarity methods to detect similar text content across text corpora. |
+| 6 / J & M | Thursday Dec 5 / 13:00–18:00 | Detecting Semantic & Syntactic Similarity in Text | HG-5A91<a href="#note2"><sup>[2]</sup></a><a href="#note3"><sup>[3]</sup></a> | To be completed: We will use semantic as well as syntactic similarity methods to detect similar text content across text corpora. |
 | 7 | Thursday Dec 12 / 13:00–18:00 | Personal Appointments | - | During the personal appointments the students will get the chance to seek the help of the instructors on their data wrangling and analysis process, in order to progress towards the final paper. |
 | 8 / J & M & P | Thursday Dec 19 / 13:00–18:00 | Project Presentation                                     | HG-5A91<a href="#note2"><sup>[2]</sup></a><a href="#note3"><sup>[3]</sup></a> | This is a marathon presentation session where the students will share their final paper, and will receive feedback from their peers as well as the instructors. |
 
@@ -73,21 +73,21 @@ All sessions, except Session 4, are organized as follows:
 - 15:30–16:00 Break
 - 16:00–18:00 Hands-on workshop
 
-For Session 4 (Semantic Analysis):
+For Session 4 (Sequence Analysis):
 
 - 13:00–14:00 Lecture (Method & theory building using the method)
 - 14:00–15:30 Paper discussion (Approximately three papers per session)
 - 15:30–15:45 Short break
 - 15:45–17:45 Hands-on workshop
-- 17:45–16:00 ThreadNet presentation with Brian Pentland 
+- 17:45–18:15 ThreadNet presentation with Brian Pentland 
 
 ## Deliverables
 
-The students are supposed to read the mandatory course readings and prepare for the class discussion.
+The students are supposed to read the mandatory course readings and prepare for the class discussions.
 
-For the theory sessions the students will be designated as paper discussants on a voluntary basis. The paper discussants have five to ten minutes to present the gist of the paper, before launching the class discussion. About 30 minutes is allocated to each paper overall.
+For the theory sessions the students will be designated as paper discussants on a voluntary basis. The paper discussants have five to ten minutes to present the gist of the paper, before launching and leading the class discussion. About 30 minutes is allocated to each paper. Depending on the number of students each student will be assigned once or twice during the term to be the class lead.
 
-A hands-on tutorial will follow each theory session. The students must come prepared to the tutorials as well. They have to familiarise themselves with the software package used in the session beforehand. The tutorial exercises will be communicated to the students at least a week in advance.
+A hands-on tutorial will follow each theory session. The students must come prepared to the tutorials as well. They have to familiarise themselves with the software package used in the session beforehand. The tutorial exercises contain questions that the students must respond to and submit to the session instructor(s) 3 days in advance. For a Thursday class at 13:00 the exercises will be due on Monday at 13:00. The students are allowed to partner with another student for the submissions, as long as the two partners work together. The hands-on exercises will be communicated to the students at least a week in advance of the submission deadline.
 
 The students will have to pick one of the presented methods to implement in their term paper. A short paper proposal (2-3 pages) and a usable dataset are due before the personal appointment (Dec. 12).
 
@@ -98,7 +98,7 @@ A presentation session is scheduled on the last day of the course, so that the s
 - **1st Session**
     - Readings
         - [Berente, N., Seidel, S., & Safadi, H. (2018). Data-Driven Computationally-Intensive Theory Development. *Information Systems Research*, Forthcoming.](https://www.researchgate.net/profile/Nicholas_Berente/publication/322069351_Data-Driven_Computationally-Intensive_Theory_Development/links/5a426dee458515f6b04fc5b2/Data-Driven-Computationally-Intensive-Theory-Development.pdf)
-        - [Duriau, V. J., Reger, R. K., & Pfarrer, M. D. (2007). A Content Analysis of the Content Analysis Literature in Organization Studies: Research Themes, Data Sources, and Methodological Refinements. *Organizational Research Methods*, *10*(1), 5–34.](http://journals.sagepub.com/doi/abs/10.1177/1094428106289252) (only p. 5–8)
+        - [Duriau, V. J., Reger, R. K., & Pfarrer, M. D. (2007). A Content Analysis of the Content Analysis Literature in Organization Studies: Research Themes, Data Sources, and Methodological Refinements. *Organizational Research Methods*, *10*(1), 5–34.](http://journals.sagepub.com/doi/abs/10.1177/1094428106289252) (only pp. 5–8)
         - [Emirbayer, M. (1997). Manifesto for a Relational Sociology. *The American Journal of Sociology*, *103*(2), 281–317.](http://dx.doi.org/10.1086/231209)
         - [Abbott, A. (1992). From Causes to Events. *Sociological Methods & Research*, *20*(4), 428–455.](http://journals.sagepub.com/doi/abs/10.1177/0049124192020004002)
 - **2nd Session**
@@ -146,14 +146,15 @@ A presentation session is scheduled on the last day of the course, so that the s
 
 ## Grading
 
-- 10% Active participation in the class 
+- 10% Active participation in the class
 - 20% Paper presentation and facilitation of class discussion
-- 30% Final presentation
-- 40% Final paper
+- 20% Hands-on exercises (4 exercises, 5% each)
+- 20% Final presentation
+- 30% Final paper
 
 ## Pre-requisites
 
-The assumption is that the students are initiated to statistics for research, including the use of the R programming language. It is crucial that students are familiar with computer basics (e.g. know how to navigate their way around the Internet) and are proficient in use of computers for handling data files (e.g. using Excel, SPSS, SQL or other software). The course will require a limited amount of coding as a requisite condition for the deliverables. The students are encouraged to spend some time before and during the course to improve their R skills, so that they make the most out of it. The students who lack a basic understanding of the common descriptive and inferential statistics methods may want to take a preliminary statistics course before taking this course. The students who have little or no experience with R are required to do the following tutorials and attend a short R workshop at the beginning of the term: [Beginner's Guide to R (Computer World)](https://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html) and [Introduction to R (DataCamp)](https://www.datacamp.com/courses/free-introduction-to-r).
+The assumption is that the students are initiated to the statistics for research, including the use of R programming language for analysis. It is crucial that students are familiar with the basic use of computers (e.g. know how to navigate their way around the Internet) and are proficient with at least one software suit for data handling (e.g. using Excel, SPSS, SQL or other software). The course will require a limited amount of coding as a requisite condition for the deliverables, what we will facilitate by offering examples and code snippets. The students are encouraged to spend time before and during the course to improve their R skills, so that they make the most out of the course. The students who lack a basic understanding of the common descriptive and inferential statistics methods may want to take a preliminary statistics course before taking this course. The students who have little experience with R are required to do the following tutorials as an absolute minimum: [Beginner's Guide to R (Computer World)](https://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html) and [Introduction to R (DataCamp)](https://www.datacamp.com/courses/free-introduction-to-r). All the students are encouraged to go through Hadley Wickham's [R for Data Science](http://r4ds.had.co.nz/) and practice the topics they have not covered before. We will also hold a short R workshop at the beginning of the term, where we will focus on R's specificities and the troublesome aspects of working with it.
 
 ## Credits
 
@@ -161,7 +162,7 @@ The seminar will count as 6 ECTS under European credit transfer and accumulation
 
 ## Registration
 
-If you haven’t registered yet, but you would like to attend the seminar, you can use [this form](http://abri.vu.nl/en/doctoral-education/phd-programme/course_registration/index.aspx) to enroll. For additional information on the administrative formalities, contact [graduateschool.abri@vu.nl](mailto:graduateschool.abri@vu.nl). 
+If you have not registered yet, but you would like to attend the seminar, you can use [this form](http://abri.vu.nl/en/doctoral-education/phd-programme/course_registration/index.aspx) to enroll. For additional information on the administrative formalities, contact [graduateschool.abri@vu.nl](mailto:graduateschool.abri@vu.nl). 
 
 ## Appendix: Resources
 
