@@ -30,7 +30,8 @@ packs <- c(
   "intergraph",
   "SnowballC",
   "curl",
-  "textreuse"
+  "textreuse",
+  "htmltidy"
 )
 
 for (pack in packs) {
@@ -52,8 +53,7 @@ if(.Platform$OS.type == "windows") {
 
 repos <- c(
   "ThreadNet/ThreadNet",
-  "jimhester/archive",
-  "hrbrmstr/htmltidy"
+  "jimhester/archive"
 )
 
 for (repo in strsplit(repos, split = "/")) {
