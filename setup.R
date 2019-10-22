@@ -31,7 +31,12 @@ packs <- c(
   "SnowballC",
   "curl",
   "textreuse",
-  "htmltidy"
+  "htmltidy",
+  "png",
+  "rmarkdown",
+  "reticulate",
+  "keras",
+  "forcats"
 )
 
 for (pack in packs) {
