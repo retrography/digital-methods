@@ -29,7 +29,8 @@ packs <- c(
   "textclean",
   "intergraph",
   "SnowballC",
-  "curl"
+  "curl",
+  "textreuse"
 )
 
 for (pack in packs) {
