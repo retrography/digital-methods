@@ -38,7 +38,9 @@ packs <- c(
   "keras",
   "forcats",
   "lemon",
-  "data.table"
+  "data.table",
+  "stargazer",
+  "xtable
 )
 
 for (pack in packs) {
