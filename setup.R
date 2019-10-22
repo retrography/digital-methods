@@ -36,7 +36,9 @@ packs <- c(
   "rmarkdown",
   "reticulate",
   "keras",
-  "forcats"
+  "forcats",
+  "lemon",
+  "data.table"
 )
 
 for (pack in packs) {
