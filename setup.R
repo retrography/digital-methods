@@ -40,7 +40,7 @@ packs <- c(
   "lemon",
   "data.table",
   "stargazer",
-  "xtable
+  "xtable"
 )
 
 for (pack in packs) {
