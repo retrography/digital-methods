@@ -40,24 +40,14 @@ packs <- c(
   "lemon",
   "data.table",
   "stargazer",
-  "xtable"
+  "xtable",
+  "feather"
 )
 
 for (pack in packs) {
   if (!pack %in% installed.packages()[, "Package"]) {
     install.packages(pack)
   }
-}
-
-if(.Platform$OS.type == "windows") {
-  library(devtools)
-  library(pkgbuild)
-  assignInNamespace("version_info", 
-                    c(devtools:::version_info, 
-                      list("3.5" = list(version_min = "3.3.0", 
-                                        version_max = "99.99.99", 
-                                        path = "bin"))), 
-                    "devtools")
 }
 
 repos <- c(
